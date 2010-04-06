@@ -1,0 +1,8 @@
+Tory, 1678, 1912
+Whig, 1678, 1868
+Liberal Party, 1859, 1988
+Peelite, 1846, 1859
+Social Democratic Party, 1981, 1988
+Liberal Democrats, 1988
+Labour Party, 1900
+Conservative Party, 1912
