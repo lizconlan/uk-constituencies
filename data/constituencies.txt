@@ -1086,7 +1086,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "North Nottinghamshire", 1832, 1885
 "South Nottinghamshire", 1832, 1885
 "Oxfordshire", 1290, 1885
-"Pembroke (Pembrokeshire)",	1542, 1885
+"Pembroke (Pembrokeshire)", 1542, 1885
 "Pembroke (Pembrokeshire)", 1974, 1983
 "Perthshire", 1708, 1885
 "Poole", 1453, 1885
@@ -1102,7 +1102,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Shaftesbury", 1295, 1885
 "Sheffield", 1832, 1885
 "North Shropshire", 1832, 1885
-"South Shropshire",	1832, 1885
+"South Shropshire", 1832, 1885
 "County Sligo", 1801, 1885
 "Mid Somerset", 1868, 1885
 "West Somerset", 1832, 1885
@@ -1118,7 +1118,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "East Sussex", 1832, 1885
 "West Sussex", 1832, 1885
 "Swansea", 1832, 1885
-"Thirsk",	1547, 1885
+"Thirsk", 1547, 1885
 "Tipperary", 1801, 1885
 "Tower Hamlets", 1832, 1885
 "Tralee", 1801, 1885
@@ -1148,7 +1148,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Wolverhampton", 1832, 1885
 "Worcestershire West", 1832, 1885
 "Youghal", 1801, 1885
-
 "Beverley", 1295, 1305
 "Beverley", 1950, 1955
 "Beverley", 1983, 1997
@@ -1156,7 +1155,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Bridgwater", 1295, 1870
 "Cashel", 1801, 1870
 "Sligo (Borough)", 1801, 1870
-
 "Aberdeenshire", 1708, 1868
 "Arundel", 1295, 1868
 "Arundel", 1974, 1997
@@ -1216,7 +1214,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Cheshire", 1545, 1832
 "Corfe Castle", 1572, 1832
 "Cornwall", 1290, 1832
-"Cromartyshire or Nairnshire", 1708, 1832,,	"Were paired as alternating constituencies until 1832"
+"Cromartyshire or Nairnshire", 1708, 1832, , "Were paired as alternating constituencies until 1832"
 "Ross and Cromarty", 1832, 1983
 "Elginshire and Nairnshire", 1832, 1918
 "Cumberland", 1290, 1832
@@ -1264,7 +1262,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Nottinghamshire", 1290, 1832
 "Okehampton", 1640, 1832
 "Okehampton", 1301, 1307
-"Old Sarum	1360", 1295, 1832
+"Old Sarum", 1295, 1832
 "Orford", 1512, 1832
 "Orford", 1298, 1307
 "Plympton Erle", 1295, 1832
@@ -1289,7 +1287,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Tregony", 1559, 1832
 "Warwickshire", 1290, 1832
 "Wendover", 1625, 1832
-"Wendover",	1301, 1307
+"Wendover", 1301, 1307
 "Weobley", 1628, 1832
 "West Looe", 1547, 1832
 "Whitchurch", 1584, 1832
@@ -1937,7 +1935,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Caithness, Sutherland and Easter Ross", 1997
 "Inverness, Nairn, Badenoch and Strathspey", 2005
 "Ross, Skye and Lochaber", 2005
-"Na h-Eileanan an Iar", 1918, , Western Isles 
+"Na h-Eileanan an Iar", 1918, , "Western Isles"
 "Orkney and Shetland", 1708
 "Aberavon", 1918
 "Alyn and Deeside", 1983
