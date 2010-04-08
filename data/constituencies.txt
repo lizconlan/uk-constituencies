@@ -52,7 +52,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Roxburgh and Selkirk", 1918, 1955
 "Roxburgh, Selkirk and Peebles", 1955, 1983
 "Roxburgh and Berwickshire", 1983, 2005
-
 "East Angus", 1983, 1997
 "Boothferry", 1983, 1997
 "Bow and Poplar", 1983, 1997
@@ -125,9 +124,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "West Hertfordshire", 1983, 1997
 "Westminster North", 1983, 1997
 "Worthing", 1945, 1997
-
 "Milton Keynes", 1983, 1992
-
 "Aberdare", 1918, 1983
 "Aberdeenshire East", 1950, 1983
 "Aberdeenshire West", 1950, 1983
@@ -222,8 +219,8 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Howden", 1955, 1983
 "Huddersfield East", 1950, 1983
 "Huddersfield West", 1950, 1983
-"Hull Central", 1885, 1955, Kingston-upon-Hull
-"Hull Central", 1974, 1983, Kingston-upon-Hull
+"Hull Central", 1885, 1955, "Kingston-upon-Hull"
+"Hull Central", 1974, 1983, "Kingston-upon-Hull"
 "Huntingdonshire", 1290, 1885
 "Huntingdonshire", 1918, 1983
 "Huyton", 1950, 1983
@@ -331,7 +328,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Wood Green", 1918, 1983
 "Woolwich East", 1918, 1983
 "Woolwich West", 1918, 1983
-
 "Arundel and Shoreham", 1950, 1974
 "Barons Court", 1955, 1974
 "Bexley", 1945, 1974
@@ -362,7 +358,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Glasgow Gorbals", 1918, 1974
 "Glasgow Woodside", 1950, 1974
 "Heston and Isleworth", 1945, 1974
-"Hull North", 1950, 1974, Kingston-upon-Hull North
+"Hull North", 1950, 1974, "Kingston-upon-Hull North"
 "Islington East", 1885, 1974
 "Islington Southwest", 1950, 1974
 "Kensington North", 1885, 1974
@@ -418,7 +414,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "West Ham South", 1950, 1974
 "Willesden East", 1918, 1974
 "Willesden West", 1918, 1974
-
 "Beverley", 1983, 1997
 "Beverley", 1950, 1955
 "Birmingham Erdington", 1918, 1955
@@ -451,7 +446,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Reading South", 1974, 1983
 "Sheffield Neepsend", 1950, 1955
 "Walsall", 1832, 1955
-
 "Aberdeen and Kincardine East", 1918, 1950
 "Aberdeen and Kincardine Central", 1918, 1950
 "Antrim", 1801, 1855
@@ -529,8 +523,8 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Holderness", 1885, 1950
 "Howdenshire", 1885, 1950
 "Huddersfield", 1832, 1950
-"Hull North West", 1918, 1950, Kingston-upon-Hull North-West
-"Hull South West", 1918, 1950, Kingston-upon-Hull South-West
+"Hull North West", 1918, 1950, "Kingston-upon-Hull North-West"
+"Hull South West", 1918, 1950, "Kingston-upon-Hull South-West"
 "Islington South", 1885, 1950
 "Islington West", 1885, 1950
 "Kennington", 1885, 1950
@@ -611,7 +605,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Whitechapel and St George's", 1918, 1950
 "Wolverhampton East", 1885, 1950
 "Wolverhampton West", 1885, 1950
-
 "Blackpool", 1885, 1945
 "Coventry", 1470, 1945
 "Ealing", 1885, 1945
@@ -619,7 +612,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Hendon", 1918, 1945
 "Ilford", 1918, 1945
 "Tamworth", 1563, 1945
-
 "Antrim East", 1885, 1922
 "Antrim Mid", 1885, 1922
 "Antrim North", 1885, 1922
@@ -727,7 +719,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Westmeath", 1801, 1885
 "Wicklow East", 1885, 1922
 "Wicklow West", 1885, 1922
-
 "Aberdeenshire Eastern", 1868, 1918
 "Aberdeenshire Western", 1868, 1918
 "Andover", 1586, 1918
@@ -798,8 +789,8 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Hawick", 1868, 1918
 "Holmfirth", 1885, 1918
 "Hoxton", 1885, 1918
-"Hull West", 1885, 1918, Kingston-upon-Hull West
-"Hull West", 1955, 1997, Kingston-upon-Hull West
+"Hull West", 1885, 1918, "Kingston-upon-Hull West"
+"Hull West", 1955, 1997, "Kingston-upon-Hull West"
 "Huntingdon", 1295, 1918
 "Hyde", 1885, 1918
 "Inverness-shire", 1708, 1918
@@ -831,7 +822,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Merthyr Tydfil", 1950, 1983
 "Mid County Durham", 1885, 1918
 "Middlesbrough", 1868, 1974
-"Midlothian", 1708, 1918, Edinburghshire
+"Midlothian", 1708, 1918, "Edinburghshire"
 "Mid Derbyshire", 1885, 1918
 "Mid Glamorganshire", 1885, 1918
 "Mid Lanarkshire", 1885, 1918
@@ -928,7 +919,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Westminster", 1545, 1918
 "West Staffordshire", 1868, 1918
 "Whitby", 1832, 1918
-"Wick District of Burghs", 1708, 1918, Northern Burghs
+"Wick District of Burghs", 1708, 1918, "Northern Burghs"
 "Wigtownshire", 1708, 1918
 "Wilton", 1295, 1918
 "Wisbech", 1885, 1918
@@ -937,7 +928,6 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Woodstock", 1571, 1918
 "Woolwich", 1885, 1918
 "Woolwich", 1983, 1997
-
 "Aberdeen", 1832, 1885
 "Antrim", 1801, 1885
 "Antrim", 1922, 1950
@@ -1104,7 +1094,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Portarlington", 1801, 1885
 "Queen's County", 1801, 1885
 "Queen's County", 1918, 1922
-"Radnor", 1542, 1885, New Radnor
+"Radnor", 1542, 1885, "New Radnor"
 "Renfrewshire", 1708, 1885
 "Roscommon", 1801, 1885
 "Salford", 1832, 1885
@@ -1179,8 +1169,8 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "South Cheshire", 1832, 1868
 "Dartmouth", 1351, 1868
 "North Essex", 1832, 1868
-"Great Yarmouth", 1298, 1868, Yarmouth (Norfolk)
-"Honiton", 1640, 1868	
+"Great Yarmouth", 1298, 1868, "Yarmouth (Norfolk)"
+"Honiton", 1640, 1868
 "Honiton", 1301, 1307
 "South Lancashire", 1832, 1868
 "Lancaster", 1523, 1868
@@ -1197,13 +1187,11 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Totnes", 1295, 1868
 "Totnes", 1885, 1983
 "Wells", 1295, 1868
-
 "West Riding of Yorkshire", 1832, 1865
 "St Albans", 1553, 1852
 "St Albans", 1311, 1326
-"Sudbury", 1559, 1844	
+"Sudbury", 1559, 1844
 "Sudbury", 1885, 1950
-
 "Aberdeen Burghs", 1708, 1832
 "Aldborough", 1558, 1832
 "Aldeburgh", 1571, 1832
@@ -1221,14 +1209,14 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Bramber", 1295, 1441
 "Buteshire or Caithness", 1708, 1832
 "Buteshire", 1832, 1918
-"Caithness", 1832, 1918,,	Were paired as alternating constituencies until 1832
+"Caithness", 1832, 1918, , "Were paired as alternating constituencies until 1832"
 "Callington", 1584, 1832
 "Camelford", 1547, 1832
 "Castle Rising", 1558, 1832
 "Cheshire", 1545, 1832
 "Corfe Castle", 1572, 1832
 "Cornwall", 1290, 1832
-"Cromartyshire or Nairnshire", 1708, 1832,,	Were paired as alternating constituencies until 1832
+"Cromartyshire or Nairnshire", 1708, 1832,,	"Were paired as alternating constituencies until 1832"
 "Ross and Cromarty", 1832, 1983
 "Elginshire and Nairnshire", 1832, 1918
 "Cumberland", 1290, 1832
@@ -1245,7 +1233,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Essex", 1290, 1832
 "Fowey", 1571, 1832
 "Gatton", 1450, 1832
-"Glasgow Burghs", 1708, 1832, Clyde Burghs
+"Glasgow Burghs", 1708, 1832, "Clyde Burghs"
 "Gloucestershire", 1290, 1832
 "Great Bedwyn", 1295, 1832
 "Hampshire", 1290, 1832
@@ -1256,7 +1244,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Hindon", 1449, 1832
 "Ilchester", 1621, 1832
 "Kent", 1290, 1832
-"Lanark Burghs", 1708, 1832, Linlithgow Burghs
+"Lanark Burghs", 1708, 1832, "Linlithgow Burghs"
 "Lancashire", 1290, 1832
 "Leicestershire", 1290, 1832
 "Lincolnshire", 1290, 1832
@@ -1265,7 +1253,7 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Milborne Port", 1628, 1832
 "Milborned Port" 1298, 1307
 "Minehead", 1563, 1832
-"Mitchell", 1547, 1832, St Michael's
+"Mitchell", 1547, 1832, "St Michael's"
 "New Romney", 1371, 1832
 "Newport (Cornwall)", 1529, 1832
 "Newton (Lancashire)", 1559, 1832
@@ -1311,24 +1299,20 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Worcestershire", 1290, 1832
 "Yarmouth (Isle of Wight)", 1584, 1832
 "Yorkshire", 1290, 1832
-
 "Grampound", 1547, 1821
 "Melcombe Regis", 1319, 1572
 "Weymouth", 1348, 1572
 "Calais", 1372, 1558
 "Newborough", 1542, 1553
 "Tournai", 1513, 1519
-
 "Grantham", 1467, 1472
 "Grantham", 1484, 1997
-
 "Derby", 1295, 1467
 "Derby", 1472, 1950
-"Great Grimsby", 1295, 1467, Grimsby
+"Great Grimsby", 1295, 1467, "Grimsby"
 "Southampton", 1295, 1467
 "Southampton", 1472, 1950
 "Winchester", 1295, 1467
-
 "Amber Valley", 1983
 "Bolsover", 1950
 "Chesterfield", 1885
@@ -1994,4 +1978,4 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Vale of Clwyd", 1997
 "Vale of Glamorgan", 1983
 "Wrexham", 1918
-"Ynys Môn", 1545, , Anglesey
+"Ynys Môn", 1545, , "Anglesey"
