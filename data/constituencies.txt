@@ -1977,3 +1977,4 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Vale of Glamorgan", 1983
 "Wrexham", 1918
 "Ynys Môn", 1545, , "Anglesey"
+
