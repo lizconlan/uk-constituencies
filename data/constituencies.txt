@@ -1311,3 +1311,284 @@ Constituency Name, Created, Abolished, Alternate Name, Notes
 "Worcestershire", 1290, 1832
 "Yarmouth (Isle of Wight)", 1584, 1832
 "Yorkshire", 1290, 1832
+
+"Grampound", 1547, 1821
+"Melcombe Regis", 1319, 1572
+"Weymouth", 1348, 1572
+"Calais", 1372, 1558
+"Newborough", 1542, 1553
+"Tournai", 1513, 1519
+
+"Grantham", 1467, 1472
+"Grantham", 1484, 1997
+
+"Derby", 1295, 1467
+"Derby", 1472, 1950
+"Great Grimsby", 1295, 1467, Grimsby
+"Southampton", 1295, 1467
+"Southampton", 1472, 1950
+"Winchester", 1295, 1467
+
+"Amber Valley", 1983
+"Bolsover", 1950
+"Chesterfield", 1885
+"Derby North", 1950
+"Derby South", 1950
+"Erewash", 1983
+"High Peak", 1885
+"North East Derbyshire", 1885
+"South Derbyshire", 1983
+"West Derbyshire", 1885
+"Blaby", 1974
+"Bosworth", 1885
+"Charnwood", 1997
+"Harborough", 1885
+"Leicester East", 1974
+"Leicester South", 1974
+"Leicester West", 1974
+"Loughborough", 1885
+"North West Leicestershire", 1983
+"Rutland and Melton", 1983
+"Boston and Skegness", 1997
+"Gainsborough", 1885
+"Grantham and Stamford", 1997
+"Lincoln", 1265
+"Louth and Horncastle", 1997
+"Sleaford and North Hykeham", 1997
+"South Holland and The Deepings", 1997
+"Corby", 1983
+"Daventry", 1974
+"Kettering", 1918
+"Northampton North", 1974
+"Northampton South", 1974
+"Wellingborough", 1918
+"Ashfield", 1955
+"Bassetlaw", 1885
+"Broxtowe", 1983
+"Gedling", 1983
+"Mansfield", 1885
+"Newark", 1673
+"Nottingham East", 1974
+"Nottingham North", 1955
+"Nottingham South", 1983
+"Rushcliffe", 1885
+"Sherwood", 1983
+"Bedford", 1997
+"Luton North", 1983
+"Luton South", 1983
+"Mid Bedfordshire", 1918
+"North East Bedfordshire", 1997
+"South West Bedfordshire", 1983
+"Cambridge", 1295
+"Huntingdon", 1983
+"North East Cambridgeshire", 1983
+"North West Cambridgeshire", 1997
+"Peterborough", 1541
+"South Cambridgeshire", 1997
+"South East Cambridgeshire", 1983
+"Basildon", 1974
+"Billericay", 1983
+"Braintree", 1974
+"Brentwood and Ongar", 1974
+"Castle Point", 1983
+"Colchester", 1997
+"Epping Forest", 1974
+"Harlow", 1974
+"Harwich", 1707
+"Maldon and East Chelmsford", 1997
+"North Essex", 1997
+"Rayleigh", 1997
+"Rochford and Southend East", 1997
+"Saffron Walden", 1885
+"Southend West", 1950
+"Thurrock", 1945
+"West Chelmsford", 1997
+"Broxbourne", 1983
+"Hemel Hempstead", 1997
+"Hertford and Stortford", 1983
+"Hertsmere", 1983
+"Hitchin and Harpenden", 1997
+"North East Hertfordshire", 1997
+"St Albans", 1885
+"South West Hertfordshire", 1950
+"Stevenage", 1983
+"Watford", 1885
+"Welwyn Hatfield", 1974
+"Great Yarmouth", 1885
+"Mid Norfolk", 1983
+"North Norfolk", 1868
+"North West Norfolk", 1974
+"Norwich North', 1950
+"Norwich South", 1950
+"South Norfolk", 1868
+"South West Norfolk", 1885
+"Bury St Edmunds, 1641
+"Central Suffolk and North Ipswich", 1997
+"Ipswich", 1295
+"South Suffolk", 1983
+"Suffolk Coastal", 1983
+"Waveney", 1983
+"West Suffolk", 1997
+"Barking", 1945
+"Bethnal Green and Bow", 1997
+"Chingford and Woodford Green", 1997
+"Dagenham", 1945
+"East Ham", 1997
+"Edmonton", 1918
+"Enfield North", 1974
+"Enfield Southgate", 1983
+"Hackney North and Stoke Newington", 1950
+"Hackney South and Shoreditch", 1974
+"Hornchurch", 1945
+"Hornsey and Wood Green", 1983
+"Ilford North", 1945
+"Ilford South", 1945
+"Islington North", 1885
+"Islington South and Finsbury", 1974
+"Leyton and Wanstead", 1997
+"Poplar and Canning Town", 1997
+"Romford", 1885
+"Tottenham", 1950
+"Upminster", 1974
+"Walthamstow", 1974
+"West Ham", 1997
+"Brent East", 1974
+"Brent North", 1974
+"Brent South", 1974
+"Chipping Barnet", 1974
+"Cities of London and Westminster", 1950
+"Ealing, Acton and Shepherd's Bush", 1997
+"Ealing North", 1950
+"Ealing Southall", 1983
+"Finchley and Golders Green", 1997
+"Hammersmith and Fulham", 1997
+"Hampstead and Highgate", 1983
+"Harrow East", 1945
+"Harrow West", 1945
+"Hayes and Harlington", 1950
+"Hendon", 1997
+"Holborn and St. Pancras", 1983
+"Kensington and Chelsea", 1997
+"Regent's Park and Kensington North", 1997
+"Ruislip-Northwood", 1950
+"Uxbridge", 1885
+"Beckenham", 1950
+"Bexleyheath and Crayford", 1997
+"Bromley and Chislehurst", 1997
+"Camberwell and Peckham", 1997
+"Croydon Central", 1974
+"Croydon North", 1997
+"Croydon South", 1974
+"Dulwich and West Norwood", 1997
+"Eltham", 1983
+"Erith and Thamesmead", 1997
+"Greenwich and Woolwich", 1997
+"Lewisham Deptford", 1974
+"Lewisham East", 1974
+"Lewisham West", 1918
+"North Southwark and Bermondsey", 1997
+"Old Bexley and Sidcup", 1983
+"Battersea", 1983
+"Brentford and Isleworth", 1974
+"Carshalton and Wallington", 1983
+"Feltham and Heston", 1974
+"Kingston and Surbiton", 1997
+"Mitcham and Morden", 1974
+"Putney", 1918
+"Richmond Park", 1997
+"Streatham", 1918
+"Sutton and Cheam", 1945
+"Tooting", 1974
+"Twickenham", 1918
+"Vauxhall", 1950
+"Wimbledon", 1885
+"Hartlepool", 1868
+"Middlesbrough", 1974
+"Middlesbrough South and East Cleveland", 1997
+"Redcar", 1974
+"Stockton North", 1983
+"Stockton South", 1983
+"Bishop Auckland", 1885
+"City of Durham", 1678
+"Darlington", 1868
+"Easington", 1950
+"North Durham", 1983
+"North West Durham", 1950
+"Sedgefield", 1983
+"Berwick-upon-Tweed", 1512
+"Blyth Valley", 1950
+"Hexham", 1885
+"Wansbeck", 1983
+"Blaydon", 1918
+"Gateshead East and Washington West", 1997
+"Houghton and Washington East", 1983
+"Jarrow", 1885
+"Newcastle upon Tyne Central", 1918
+"Newcastle upon Tyne East and Wallsend", 1997
+"Newcastle upon Tyne North", 1918
+"North Tyneside", 1997
+"South Shields", 1832
+"Sunderland North", 1950
+"Sunderland South", 1950
+"Tyne Bridge", 1983
+"Tynemouth", 1885
+"City of Chester", 1545
+"Congleton", 1983
+"Crewe and Nantwich", 1983
+"Eddisbury", 1983
+"Ellesmere Port and Neston", 1983
+"Halton", 1983
+"Macclesfield", 1885
+"Tatton", 1983
+"Warrington North", 1983
+"Warrington South", 1983
+"Weaver Vale", 1997
+"Barrow and Furness", 1885
+"Carlisle", 1295
+"Copeland", 1983
+"Penrith and The Border", 1950
+"Westmorland and Lonsdale", 1983
+"Workington", 1918
+"Altrincham and Sale West", 1997
+"Ashton-under-Lyne", 1832
+"Bolton North East", 1983
+"Bolton South East", 1983
+"Bolton West", 1950
+"Bury North", 1983
+"Bury South", 1983
+"Cheadle", 1950
+"Denton and Reddish", 1983
+"Eccles", 1885
+"Hazel Grove", 1974
+"Heywood and Middleton", 1983
+"Leigh", 1885
+"Makerfield", 1983
+"Manchester Blackley", 1918
+"Manchester Central", 1974
+"Manchester Gorton", 1918
+"Manchester Withington", 1918
+"Oldham East and Saddleworth", 1997
+"Oldham West and Royton", 1997
+"Rochdale", 1832
+"Salford", 1997
+"Stalybridge and Hyde", 1918
+"Stockport", 1983
+"Stretford and Urmston", 1997
+"Wigan", 1545
+"Worsley", 1983
+"Wythenshawe and Sale East", 1997
+"Blackburn", 1955
+"Blackpool North and Fleetwood", 1997
+"Blackpool South", 1945
+"Burnley", 1868
+"Chorley", 1885
+"Fylde", 1983
+"Hyndburn", 1983
+"Lancaster and Wyre", 1997
+"Morecambe and Lunesdale", 1983
+"Pendle", 1983
+"Preston", 1983
+"Ribble Valley", 1983
+"Rossendale and Darwen", 1983
+"South Ribble", 1983
+"West Lancashire", 1983
