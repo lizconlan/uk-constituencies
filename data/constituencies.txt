@@ -1,7 +1,7 @@
 Constituency Name,Created,Abolished,Alternate Name,Notes
 "Aberdeen Central",1997,2005
 "Ayr",1950,2005
-"Carrick,Cumnock and Doon Valley",1983,2005
+"Carrick, Cumnock and Doon Valley",1983,2005
 "Coatbridge and Chryston",1997,2005
 "Clydebank and Milngavie",1983,2005
 "Clydesdale",1983,2005
@@ -36,7 +36,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Greenock and Inverclyde",1997,2005
 "Hamilton North and Bellshill",1997,2005
 "Hamilton South",1997,2005
-"Inverness East,Nairn and Lochaber",1983,2005
+"Inverness East, Nairn and Lochaber",1983,2005
 "Kirkcaldy",1832,2005
 "Linlithgowshire",1708,1945
 "Linlithgow",1983,2005
@@ -46,10 +46,10 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Perth and Kinross",1983,1997
 "Perth",1997,2005
 "Renfrewshire West",1997,2005
-"Ross,Skye and Inverness West",1997,2005
+"Ross, Skye and Inverness West",1997,2005
 "Roxburghshire",1708,1918
 "Roxburgh and Selkirk",1918,1955
-"Roxburgh,Selkirk and Peebles",1955,1983
+"Roxburgh, Selkirk and Peebles",1955,1983
 "Roxburgh and Berwickshire",1983,2005
 "East Angus",1983,1997
 "Boothferry",1983,1997
@@ -107,7 +107,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Plymouth Drake",1974,1997
 "Ravensbourne",1974,1997
 "Richmond and Barnes",1983,1997
-"Ross,Cromarty and Skye",1983,1997
+"Ross, Cromarty and Skye",1983,1997
 "Salford East",1950,1997
 "South East Staffordshire",1983,1997
 "Southend East",1950,1997
@@ -303,7 +303,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "South West Staffordshire",1974,1983
 "Sowerby",1885,1983
 "Stepney and Poplar",1974,1983
-"Stirling,Falkirk and Grangemouth",1974
+"Stirling, Falkirk and Grangemouth",1974
 "Stockport North",1950,1983
 "Stockport South",1950,1983
 "Stockton",1950,1983
@@ -904,7 +904,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Tyrone East",1885,1918
 "Tyrone Mid",1885,1918
 "Tyrone North",1885,1918
-"Walthamstow	1885",1918
+"Walthamstow",1885,1918
 "Walworth",1885,1918
 "Wandsworth",1885,1918
 "Wellington (Shropshire)",1885,1918
@@ -1248,7 +1248,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Lostwithiel",1305,1832
 "Ludgershall",1295,1832
 "Milborne Port",1628,1832
-"Milborned Port",1298,1307
+"Milborne Port",1298,1307
 "Minehead",1563,1832
 "Mitchell",1547,1832,"St Michael's"
 "New Romney",1371,1832
@@ -1438,7 +1438,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Brent South",1974
 "Chipping Barnet",1974
 "Cities of London and Westminster",1950
-"Ealing,Acton and Shepherd's Bush",1997
+"Ealing, Acton and Shepherd's Bush",1997
 "Ealing North",1950
 "Ealing Southall",1983
 "Finchley and Golders Green",1997
@@ -1876,17 +1876,17 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Upper Bann",1983
 "West Tyrone",1997
 "Dumfries and Galloway",2005
-"Dumfriesshire,Clydesdale and Tweeddale",2005
-"Berwickshire,Roxburgh and Selkirk",2005
+"Dumfriesshire, Clydesdale and Tweeddale",2005
+"Berwickshire, Roxburgh and Selkirk",2005
 "Central Ayrshire",2005
 "Ayr,Carrick and Cumnock",2005
 "Kilmarnock and Loudoun",1983
 "North Ayrshire and Arran",2005
-"East Kilbride,Strathaven and Lesmahagow",2005
+"East Kilbride, Strathaven and Lesmahagow",2005
 "Lanark and Hamilton East",2005
 "Rutherglen and Hamilton West",2005
-"Coatbridge,Chryston and Bellshill",2005
-"Cumbernauld,Kilsyth and Kirkintilloch East",2005
+"Coatbridge, Chryston and Bellshill",2005
+"Cumbernauld, Kilsyth and Kirkintilloch East",2005
 "Airdrie and Shotts",1997
 "Motherwell and Wishaw",1997
 "East Lothian",1983
@@ -1931,9 +1931,9 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Aberdeen South",1885
 "Argyll and Bute",1983
 "Moray",1983
-"Caithness,Sutherland and Easter Ross",1997
-"Inverness,Nairn,Badenoch and Strathspey",2005
-"Ross,Skye and Lochaber",2005
+"Caithness, Sutherland and Easter Ross",1997
+"Inverness, Nairn, Badenoch and Strathspey",2005
+"Ross, Skye and Lochaber",2005
 "Na h-Eileanan an Iar",1918,,"Western Isles"
 "Orkney and Shetland",1708
 "Aberavon",1918
