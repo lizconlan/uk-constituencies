@@ -39,7 +39,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Inverness East,Nairn and Lochaber",1983,2005
 "Kirkcaldy",1832,2005
 "Linlithgowshire",1708,1945
-"West Lothian",1945,1983
 "Linlithgow",1983,2005
 "Paisley North",1983,2005
 "Paisley South",1983,2005
@@ -601,7 +600,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Waterloo",1918,1950
 "Wentworth",1918,1950
 "Westminster Abbey",1918,1950
-"Westminster,St George's",1918,1950
+"Westminster, St George's",1918,1950
 "Whitechapel and St George's",1918,1950
 "Wolverhampton East",1885,1950
 "Wolverhampton West",1885,1950
