@@ -1,1980 +1,1979 @@
-Constituency Name, Created, Abolished, Alternate Name, Notes
-"Aberdeen Central", 1997, 2005
-"Ayr", 1950, 2005
-"Carrick, Cumnock and Doon Valley",	1983, 2005
-"Coatbridge and Chryston", 1997, 2005
-"Clydebank and Milngavie", 1983, 2005
-"Clydesdale", 1983, 2005
-"Cunninghame North", 1983, 2005
-"Cunninghame South", 1983, 2005
-"Dumbarton", 1983, 2005
-"Dumfriesshire", 1708, 2005
-"Dunfermline East", 1983, 2005
-"Dunfermline West", 1983, 2005
-"Eastwood", 1983, 2005
-"Edinburgh Central", 1885, 2005
-"Edinburgh East and Musselburgh", 1997, 2005
-"Edinburgh Pentlands", 1950, 2005
-"Falkirk East", 1983, 2005
-"Falkirk West", 1983, 2005
-"Fife Central", 1974, 2005
-"Galloway", 1918, Galloway, 1983
-"Galloway and Upper Nithsdale", 1983, 2005
-"Glasgow Anniesland",	1997, 2005
-"Glasgow Baillieston", 1997, 2005
-"Glasgow Cathcart",	1918, 2005
-"Glasgow Govan", 1885, 2005
-"Glasgow Kelvin", 1997, 2005
-"Glasgow Maryhill", 1918, 2005
-"Glasgow Pollok", 1918, 2005
-"Rutherglen",	1918, 1983
-"Glasgow Rutherglen", 1983, 2005
-"Glasgow Shettleston", 1918, 2005
-"Glasgow Springburn", 1918, 2005
-"Greenock", 1832, 1974
-"Greenock and Port Glasgow", 1974, 1997
-"Greenock and Inverclyde", 1997, 2005
-"Hamilton North and Bellshill", 1997, 2005
-"Hamilton South", 1997, 2005
-"Inverness East, Nairn and Lochaber", 1983, 2005
-"Kirkcaldy", 1832, 2005
-"Linlithgowshire", 1708, 1945
-"West Lothian", 1945, 1983
-"Linlithgow", 1983, 2005
-"Paisley North", 1983, 2005
-"Paisley South", 1983, 2005
-"Perth and East Perthshire", 1708, 1950
-"Perth and Kinross", 1983, 1997
-"Perth", 1997, 2005
-"Renfrewshire West", 1997, 2005
-"Ross, Skye and Inverness West", 1997, 2005
-"Roxburghshire", 1708, 1918
-"Roxburgh and Selkirk", 1918, 1955
-"Roxburgh, Selkirk and Peebles", 1955, 1983
-"Roxburgh and Berwickshire", 1983, 2005
-"East Angus", 1983, 1997
-"Boothferry", 1983, 1997
-"Bow and Poplar", 1983, 1997
-"Bridlington", 1950, 1997
-"Caithness and Sutherland", 1918, 1997
-"Carmarthen", 1542, 1997
-"Chelmsford", 1885, 1997
-"Chelsea", 1868, 1997
-"Chertsey and Walton, 1885, 1997
-"Cirencester and Tewkesbury", 1918, 1997
-"Clackmannan", 1983, 1997
-"Colchester North", 1983, 1997
-"Colchester South and Maldon", 1983, 1997
-"Coventry South East", 1974, 1997
-"Coventry South West", 1974, 1997
-"Croydon North East", 1955, 1997
-"Croydon North West", 1955, 1997
-"Dudley East", 1974, 1997
-"Dudley West, 1974, 1997
-"East Berkshire", 1983, 1997
-"East Lindsey", 1983, 1997
-"Fulham", 1955, 1997
-"Glasgow Garscadden", 1974, 1997
-"Glasgow Central", 1885, 1997
-"Glasgow Hillhead", 1918, 1997
-"Glasgow Provan", 1955, 1997
-"Gloucestershire West", 1950, 1997
-"Hamilton", 1918, 1997
-"Hendon North", 1945, 1997
-"Hendon South", 1945, 1997
-"Holland with Boston", 1918, 1997
-"Kincardine and Deeside", 1983, 1997
-"Langbaurgh", 1983, 1997
-"Littleborough and Saddleworth", 1983, 1997
-"Liverpool Broadgreen", 1983, 1997
-"Liverpool Mossley Hill", 1983, 1997
-"Mid Staffordshire, 1983, 1997
-"Monklands East", 1983, 1997
-"Monklands West", 1983, 1997
-"Motherwell North", 1983, 1997
-"Motherwell South", 1983, 1997
-"New Forest", 1885, 1918
-"New Forest and Christchurch", 1918, 1950
-"New Forest", 1950, 1997
-"Newham North East", 1974, 1997
-"Newham North West", 1974, 1997
-"Newham South",	1974, 1997
-"Norwood", 1885, 1997
-"North Bedfordshire", 1983, 1997
-"North Hertfordshire", 1983, 1997
-"North West Clwyd", 1983, 1997
-"North West Surrey", 1974, 1997
-"Plymouth Drake", 1918, 1950
-"Plymouth Drake",1974, 1997
-"Ravensbourne", 1974, 1997
-"Richmond and Barnes", 1983, 1997
-"Ross, Cromarty and Skye", 1983, 1997
-"Salford East", 1950, 1997
-"South East Staffordshire", 1983, 1997
-"Southend East", 1950, 1997
-"South Hams", 1983, 1997
-"South West Cambridgeshire", 1983, 1997
-"South West Clwyd", 1983, 1997
-"South Worcestershire", 1950, 1997
-"Swindon", 1918, 1997
-"Wallsend", 1918, 1997
-"Wanstead and Woodford", 1974, 1997
-"Warley East", 1974, 1997
-"Warley West", 1974, 1997
-"West Hertfordshire", 1983, 1997
-"Westminster North", 1983, 1997
-"Worthing", 1945, 1997
-"Milton Keynes", 1983, 1992
-"Aberdare", 1918, 1983
-"Aberdeenshire East", 1950, 1983
-"Aberdeenshire West", 1950, 1983
-"Abertillery", 1918, 1983
-"Accrington", 1885, 1983
-"Angus North and Mearns", 1950, 1983
-"Angus South", 1950, 1983
-"Argyllshire", 1708, 1950
-"Argyll", 1950, 1983
-"Armagh", 1922, 1983
-"Ayrshire Central", 1950, 1983
-"Ayrshire South", 1868, 1983
-"Banffshire", 1708, 1983
-"Barkston Ash", 1885, 1983
-"Barnsley", 1885, 1983
-"Barry", 1950, 1983
-"Battersea North", 1918, 1983
-"Battersea South", 1918, 1983
-"Bebington and Ellesmere Port", 1974, 1983
-"Bedford", 1295, 1983
-"Bedwellty", 1918, 1983
-"Beeston", 1974, 1983
-"Belper", 1918, 1983
-"Bermondsey, 1885, 1983
-"Berwick and East Lothian", 1950, 1983
-"Birmingham Stechford", 1950, 1983
-"Bodmin", 1295, 1983
-"Bolton East", 1950, 1983
-"Bothwell", 1918, 1983
-"Brigg and Scunthorpe", 1974, 1983
-"Brighouse and Spenborough, 1950, 1983
-"Bristol North East", 1950, 1983
-"Bristol South East", 1950, 1983
-"Bromsgrove and Redditch", 1974, 1983
-"Bury and Radcliffe", 1950, 1983
-"Bute and North Ayrshire", 1918, 1983
-"Cambridgeshire", 1290, 1885
-"Cambridgeshire", 1918, 1983
-"Cardiff North West, 1974, 1983
-"Cardiff South East", 1950, 1983
-"Carlton", 1950, 1983
-"Chester-le-Street", 1885, 1983
-"Christchurch and Lymington", 1974, 1983
-"Clackmannan and Eastern Stirlingshire", 1885, 1983
-"Cleveland and Whitby", 1974, 1983
-"Clitheroe", 1559, 1983
-"Coatbridge and Airdrie", 1950, 1983
-"Colchester", 1295, 1983
-"Consett", 1918, 1983
-"Dunbartonshire Central", 1974, 1983
-"Darwen", 1885, 1983
-"Dearne Valley", 1950, 1983
-"Denbigh", 1542, 1983
-"Doncaster", 1885, 1983
-"Dorking", 1950, 1983
-"Dover and Deal", 1974, 1983
-"Dunfermline", 1918, 1983
-"East Dunbartonshire", 1950, 1983
-"East Grinstead", 1885, 1983
-"East Hertfordshire", 1955, 1983
-"Ebbw Vale", 1918, 1983
-"Edinburgh North", 1918, 1983
-"Essex South East", 1995, 1945
-"Essex South East", 1955, 1983
-"Eton and Slough", 1945, 1983
-"Eye", 1571, 1983
-"Farnham", 1918, 1983
-"Farnworth", 1885, 1983
-"Fife East", 1885, 1983
-"Flintshire East", 1950, 1983
-"Flintshire West", 1950, 1983
-"Fylde North", 1950, 1983
-"Fylde South", 1950, 1983
-"Gateshead West", 1950, 1983
-"Glasgow Craigton", 1955, 1983
-"Glasgow Kelvingrove", 1918, 1983
-"Glasgow Queen's Park", 1974, 1983
-"Gloucestershire South", 1950, 1983
-"Goole", 1950, 1983
-"Gravesend", 1868, 1983
-"Hackney Central, 1885, 1950
-"Hackney Central" 1955, 1983
-"Haltemprice", 1950, 1983
-"Hammersmith North", 1918, 1983
-"Handsworth", 1885, 1983
-"Harrow Central", 1950, 1983
-"Hemel Hempstead", 1918, 1983
-"Hitchin", 1885, 1983
-"Holborn and St Pancras South", 1950, 1983
-"Horncastle", 1885, 1983
-"Horsham and Crawley", 1974, 1983
-"Howden", 1955, 1983
-"Huddersfield East", 1950, 1983
-"Huddersfield West", 1950, 1983
-"Hull Central", 1885, 1955, "Kingston-upon-Hull"
-"Hull Central", 1974, 1983, "Kingston-upon-Hull"
-"Huntingdonshire", 1290, 1885
-"Huntingdonshire", 1918, 1983
-"Huyton", 1950, 1983
-"Ilkeston", 1885, 1983
-"Ince", 1885, 1983
-"Isle of Ely", 1918, 1983
-"Islington Central", 1974, 1983
-"Kidderminster", 1832, 1983
-"Kilmarnock", 1918, 1983
-"Kinross and Western", 1918, 1983
-"Knutsford", 1885, 1983
-"Lambeth Central", 1974, 1983
-"Lanark", 1708, 1832
-"Lanark", 1918, 1983
-"Leeds South", 1885, 1983
-"Leeds South East", 1918, 1983
-"Leek", 1885, 1983
-"Lichfield and Tamworth", 1950, 1983
-"Liverpool Edge Hill", 1918, 1983
-"Liverpool Kirkdale", 1885, 1983
-"Liverpool Scotland Exchange", 1974, 1983
-"Liverpool Toxteth", 1950, 1983
-"Liverpool Wavertree", 1918, 1983
-"Louth (Lincolnshire)", 1885, 1983
-"Lowestoft", 1885, 1983
-"Luton East", 1974, 1983
-"Luton West", 1974, 1983
-"Maldon", 1332, 1983
-"Manchester Ardwick", 1918, 1983
-"Manchester Moss Side", 1918, 1983
-"Manchester Openshaw", 1955, 1983
-"Melton", 1885, 1983
-"Middleton and Prestwich", 1918, 1983
-"Mid Oxfordshire", 1974, 1983
-"Moray and Nairn", 1918, 1983
-"Morpeth", 1553, 1983
-"Motherwell", 1918, 1974
-"Motherwell and Wishaw", 1974, 1983
-"Nantwich", 1955, 1983
-"Nelson and Colne", 1918, 1983
-"Newcastle-upon-Tyne West", 1918, 1983
-"Newport (Monmouthshire)", 1918, 1983
-"Newton (Lancashire)", 1885, 1983
-"North Lanarkshire", 1868, 1885
-"North Lanarkshire", 1918, 1983
-"North Somerset", 1995, 1918
-"North Somerset", 1950, 1983
-"Northwich", 1885, 1983
-"Nottingham West", 1885, 1983
-"Oldham East", 1950, 1983
-"Ormskirk", 1885, 1983
-"Oswestry", 1885, 1983
-"Oxford", 1295, 1983
-"Paddington", 1974, 1983
-"Paisley", 1832, 1983
-"Penistone", 1918, 1983
-"Petersfield", 1547, 1983
-"Pontypool", 1918, 1983
-"Preston North", 1950, 1983
-"Preston South", 1950, 1983
-"Reading North", 1950, 1955
-"Reading North", 1974, 1983
-"Reading South", 1950, 1955
-"Reading South", 1974, 1983
-"Renfrewshire East", 1885, 1983
-"Ripon", 1530, 1983
-"Rochester and Chatham", 1950, 1983
-"Rugby", 1885, 1983
-"Runcorn", 1950, 1983
-"Ross and Cromarty", 1832, 1983
-"Rye", 1955, 1983
-"St Helens", 1885, 1983
-"St Marylebone", 1918, 1983
-"St Pancras North", 1885, 1983
-"Salford West", 1885, 1983
-"Sheffield Park", 1918, 1983
-"Sidcup", 1974, 1983
-"South Bedfordshire", 1950, 1983
-"South East Derbyshire", 1950, 1983
-"South Hertfordshire", 1974, 1983
-"South West Staffordshire", 1974, 1983
-"Sowerby", 1885, 1983
-"Stepney and Poplar", 1974, 1983
-"Stirling, Falkirk and Grangemouth", 1974
-"Stockport North", 1950, 1983
-"Stockport South", 1950, 1983
-"Stockton", 1950, 1983
-"Stoke Newington and Hackney North", 1950, 1983
-"Stratford", 1918, 1983
-"Sudbury and Woodbridge", 1950, 1983
-"Thanet East", 1974, 1983
-"Thanet West", 1974, 1983
-"Thirsk and Malton", 1885, 1983
-"Thornaby", 1974, 1983
-"Totnes", 1885, 1983
-"Warrington", 1832, 1983
-"West Devon", 1974, 1983
-"West Dunbartonshire", 1950, 1983
-"Westhoughton", 1885, 1983
-"West Lothian", 1945, 1983
-"West Stirlingshire", 1945, 1983
-"Whitehaven", 1832, 1983
-"Widnes", 1885, 1983
-"Wirral", 1885, 1983
-"Wood Green", 1918, 1983
-"Woolwich East", 1918, 1983
-"Woolwich West", 1918, 1983
-"Arundel and Shoreham", 1950, 1974
-"Barons Court", 1955, 1974
-"Bexley", 1945, 1974
-"Billericay", 1950, 1974
-"Bilston", 1918, 1974
-"Birmingham All Saints", 1955, 1974
-"Birmingham Aston", 1918, 1974
-"Bradford East", 1885, 1974
-"Brierley Hill", 1950, 1974
-"Bristol Central", 1918, 1974
-"Brixton", 1885, 1974
-"Bromley", 1918, 1974
-"Chigwell", 1955, 1974
-"Clapham", 1885, 1974
-"Coventry East", 1945, 1974
-"Coventry North", 1950, 1974
-"Coventry South", 1950, 1974
-"Croydon South, 1955, 1974
-"Dudley", 1832, 1974
-"Ealing South", 1950, 1974
-"East Ham North", 1918, 1974
-"East Ham South", 1918, 1974
-"Enfield East", 1950, 1974
-"Enfield West", 1950, 1974
-"Epping", 1885, 1974
-"Fife West", 1885, 1974
-"Glasgow Bridgeton", 1885, 1974
-"Glasgow Gorbals", 1918, 1974
-"Glasgow Woodside", 1950, 1974
-"Heston and Isleworth", 1945, 1974
-"Hull North", 1950, 1974, "Kingston-upon-Hull North"
-"Islington East", 1885, 1974
-"Islington Southwest", 1950, 1974
-"Kensington North", 1885, 1974
-"Kensington South", 1885, 1974
-"King's Lynn", 1298, 1974
-"Leicester North East", 1950, 1974
-"Leicester North West", 1950, 1974
-"Leicester South East", 1950, 1974
-"Leicester South West", 1950, 1974
-"Lewisham North", 1950, 1974
-"Lewisham South" 1950, 1974
-"Luton", 1885, 1974
-"Manchester Cheetham", 1950, 1974
-"Manchester Exchange", 1918, 1974
-"Merton and Morden", 1950, 1974
-"Middlesbrough East", 1918, 1974
-"Middlesbrough West", 1918, 1974
-"Norfolk Central", 1950, 1974
-"Northampton", 1295, 1974
-"Nottingham Central", 1918, 1974
-"Nottingham South", 1885, 1974
-"Paddington North", 1885, 1974
-"Paddington South", 1885, 1974
-"Poplar", 1885, 1918
-"Poplar", 1950, 1974
-"Portsmouth Langstone", 1950, 1974
-"Portsmouth West", 1950, 1974
-"Reading", 1295, 1950
-"Reading", 1955, 1974
-"Rhondda East", 1918, 1974
-"Rhondda West", 1918, 1974
-"Rowley Regis and Tipton", 1950, 1974
-"Sedgefield", 1918, 1974
-"Smethwick", 1918, 1974
-"South Buckinghamshire", 1950, 1974
-"South Northamptionshire", 1832, 1918
-"South Northamptonshire", 1950, 1974
-"Southwark", 1295, 1885
-"Southwark", 1950, 1974
-"Tavistock", 1330, 1974
-"Torquay", 1885, 1974
-"Torrington", 1950, 1974
-"Walthamstow East", 1918, 1974
-"Walthamstow West", 1918, 1974
-"Wandsworth Central", 1918, 1974
-"Wednesbury", 1868, 1974
-"Wembley North", 1945, 1974
-"Wembley South", 1945, 1974
-"West Bromwich", 1885, 1974
-"West Ham North", 1885, 1918
-"West Ham North", 1950, 1974
-"West Ham South", 1885, 1918
-"West Ham South", 1950, 1974
-"Willesden East", 1918, 1974
-"Willesden West", 1918, 1974
-"Beverley", 1983, 1997
-"Beverley", 1950, 1955
-"Birmingham Erdington", 1918, 1955
-"Blackburn East", 1950, 1955
-"Blackburn West", 1950, 1955
-"Bradford Central", 1885, 1955
-"Broxtowe", 1918, 1955
-"Croydon East", 1950, 1955
-"Croydon North", 1918, 1955
-"Croydon West", 1950, 1955
-"Droylsden", 1950, 1955
-"Fulham East", 1918, 1955
-"Fulham West", 1918, 1955
-"King's Norton", 1918, 1955
-"Glasgow Camlachie", 1885, 1955
-"Glasgow Tradeston", 1885, 1955
-"Hackney South", 1885, 1955
-"Hammersmith South", 1918, 1955
-"Hull Central", 1885, 1955
-"Leeds Central", 1885, 1955
-"Leeds North", 1885, 1955
-"Manchester Clayton", 1918, 1955
-"Midlothian and Peebles", 1950, 1955
-"Mile End", 1885, 1955
-"Nottingham East, 1885, 1955
-"Nottingham North West", 1950, 1955
-"Reading North", 1950, 1955
-"Reading North", 1974, 1983
-"Reading South", 1950, 1955
-"Reading South", 1974, 1983
-"Sheffield Neepsend", 1950, 1955
-"Walsall", 1832, 1955
-"Aberdeen and Kincardine East", 1918, 1950
-"Aberdeen and Kincardine Central", 1918, 1950
-"Antrim", 1801, 1855
-"Antrim", 1922, 1950
-"Ayr District of Burghs", 1708, 1950
-"Balham and Tooting", 1918, 1950
-"Barnard Castle", 1885, 1950
-"Barnstaple", 1295, 1950
-"Bermondsey West", 1918, 1950
-"Berwickshire and Haddingtonshire", 1918, 1950
-"Berwickshire and East Lothian", 1950, 1974
-"Berwick and East Lothian", 1974, 1983
-"Bethnal Green North East", 1885, 1950
-"Bethnal Green South West", 1885, 1950
-"Bewdley", 1605, 1950
-"Birkenhead East", 1918, 1950
-"Birkenhead West", 1918, 1950
-"Birmingham Acock's Green", 1945, 1950
-"Birmingham Deritend", 1918, 1950
-"Birmingham Duddeston", 1918, 1950
-"Birmingham West", 1885, 1950
-"Blackburn", 1832, 1950
-"Bolton", 1832, 1950
-"Bournemouth", 1918, 1950
-"Bow and Bromley", 1885, 1950
-"Brighton", 1832, 1950
-"Bristol East", 1885, 1950
-"Bristol North", 1885, 1950
-"Bucklow", 1945, 1950
-"Buckrose", 1885, 1950
-"Burslem", 1918, 1950
-"Caernarvonshire", 1542, 1885
-"Caernarvonshire",1918, 1950
-"Camberwell North", 1885, 1950
-"Camberwell North West", 1918, 1950
-"Cambridge University", 1604, 1950
-"Cardiff Central", 1918, 1950
-"Cardiff East", 1918, 1950
-"Cardiff South", 1918, 1950
-"Clay Cross", 1918, 1950
-"Combined English Universities", 1918, 1950
-"Combined Scottish Universities, 1918, 1950
-"Coventry West", 1945, 1950
-"Croydon South", 1918, 1950
-"Daventry", 1918, 1950
-"Derby", 1295, 1950
-"Down", 1801, 1885
-"Down", 1922, 1950
-"Dumbarton Burghs", 1918, 1950
-"Dunbartonshire", 1708, 1950
-"Dundee", 1832, 1950
-"Ealing East", 1945, 1950
-"Ealing West", 1945, 1950
-"East Dorset", 1885, 1950
-"East Toxteth", 1885, 1950
-"Eddisbury", 1885, 1950
-"Elland", 1885, 1950
-"Enfield", 1885, 1950
-"Essex South East", 1885, 1950
-"Essex South East", 1955, 1983
-"Evesham", 1604, 1950
-"Fermanagh and Tyrone", 1922, 1950
-"Flintshire", 1542, 1950
-"Forest of Dean", 1885, 1950
-"Forfarshire", 1708, 1950
-"Frome", 1832, 1950
-"Fylde", 1918, 1950
-"Gateshead", 1832, 1950
-"Glasgow Partick", 1885, 1950
-"Glasgow St Rollox", 1885, 1950
-"Hackney Central", 1885, 1950
-"Hackney Central" 1955, 1983
-"Hackney North", 1885, 1950
-"Hanley", 1885, 1950
-"Holderness", 1885, 1950
-"Howdenshire", 1885, 1950
-"Huddersfield", 1832, 1950
-"Hull North West", 1918, 1950, "Kingston-upon-Hull North-West"
-"Hull South West", 1918, 1950, "Kingston-upon-Hull South-West"
-"Islington South", 1885, 1950
-"Islington West", 1885, 1950
-"Kennington", 1885, 1950
-"Kincardine and Aberdeenshire West", 1918, 1950
-"Kingswinford", 1885, 1950
-"Lambeth North", 1885, 1950
-"Leicester East", 1918, 1950
-"Leicester South", 1918, 1950
-"Leicester West", 1918, 1950
-"Lewisham East", 1918, 1950
-"Leyton East", 1918, 1950
-"Leyton West", 1918, 1950
-"Limehouse", 1885, 1950
-"Liverpool Everton", 1885, 1950
-"Liverpool Fairfield", 1918, 1950
-"Liverpool West Toxteth", 1885, 1950
-"Llandaff and Barry", 1918, 1950
-"London City (of), 1298, 1950
-"London University", 1868, 1950
-"Lonsdale", 1918, 1950
-"Manchester Hulme", 1918, 1950
-"Manchester Platting", 1918, 1950
-"Manchester Rusholme", 1918, 1950
-"Montrose District of Burghs", 1832, 1950
-"Norfolk East", 1832, 1868
-"Norfolk East", 1885, 1950
-"North Cumberland", 1918, 1950
-"Norwich", 1298, 1950
-"Oldham", 1832, 1950
-"Oxford University", 1604, 1950
-"Penrith and Cockermouth", 1918, 1950
-"Penryn and Falmouth", 1832, 1950
-"Plaistow", 1918, 1950
-"Plymouth Drake", 1918, 1950
-"Plymouth Drake", 1974, 1997
-"Poplar South", 1918, 1950
-"Portsmouth Central", 1918, 1950
-"Portsmouth North", 1918, 1950
-"Preston", 1529, 1950
-"Queen's University Belfast", 1918, 1950
-"Reading, 1295, 1950
-"Rotherhithe", 1885, 1950
-"Rothwell", 1918, 1950
-"Royton", 1918, 1950
-"Rye, 1366, 1950
-"Rye", 1955, 1983
-"St Pancras South East", 1918, 1950
-"St Pancras South West", 1918, 1950
-"Salford North", 1885, 1950
-"Salford South", 1885, 1950
-"Seaham", 1918, 1950
-"Sheffield Central", 1885, 1950
-"Sheffield Ecclesall", 1885, 1950
-"Silvertown", 1918, 1950
-"South Derbyshire", 1832, 1950
-"Southend", 1918, 1950
-"Southampton", 1295, 1950
-"South Molton", 1885, 1950
-"Southwark Central", 1918, 1950
-"Southwark North", 1918, 1950
-"Southwark South East", 1918, 1950
-"Spennymoor", 1918, 1950
-"Spen Valley", 1885, 1950
-"Stockport", 1832, 1950
-"Stoke", 1918, 1950
-"Stourbridge", 1918, 1950
-"Sunderland", 1832, 1950
-"Thornbury", 1885, 1950
-"Tottenham North", 1918, 1950
-"Tottenham South", 1918, 1950
-"University of Wales", 1918, 1950
-"Upton", 1918, 1950
-"Wansbeck", 1885, 1950
-"Waterloo", 1918, 1950
-"Wentworth", 1918, 1950
-"Westminster Abbey", 1918, 1950
-"Westminster, St George's", 1918, 1950
-"Whitechapel and St George's", 1918, 1950
-"Wolverhampton East", 1885, 1950
-"Wolverhampton West", 1885, 1950
-"Blackpool", 1885, 1945
-"Coventry", 1470, 1945
-"Ealing", 1885, 1945
-"Harrow", 1885, 1945
-"Hendon", 1918, 1945
-"Ilford", 1918, 1945
-"Tamworth", 1563, 1945
-"Antrim East", 1885, 1922
-"Antrim Mid", 1885, 1922
-"Antrim North", 1885, 1922
-"Antrim South", 1885, 1922
-"Armagh Mid", 1885, 1922
-"Armagh North", 1885, 1922
-"Armagh South", 1885, 1922
-"Belfast Cromac", 1918, 1922
-"Belfast Duncairn", 1918, 1922
-"Belfast Falls", 1918, 1922
-"Belfast Ormeau", 1918, 1922
-"Belfast Pottinger", 1918, 1922
-"Belfast St Anne's", 1918, 1922
-"Belfast Shankill", 1918, 1922
-"Belfast Victoria", 1918, 1922
-"Belfast Woodvale", 1918, 1922
-"Cavan East", 1885, 1922
-"Cavan West", 1885, 1922
-"Clare East", 1885, 1922
-"Clare West", 1885, 1922
-"Connemara", 1885, 1922
-"Cork City", 1801, 1922
-"County Carlow", 1801, 1922
-"County Cork East", 1885, 1922
-"County Cork Mid", 1885, 1922
-"County Cork North", 1885, 1922
-"County Cork North East", 1885, 1922
-"County Cork South", 1885, 1922
-"County Cork South East", 1885, 1922
-"County Cork West", 1885, 1922
-"County Dublin North", 1885, 1922
-"County Dublin South", 1885, 1922
-"County Galway East", 1885, 1922
-"County Galway North, 1885, 1922
-"County Galway South, 1885, 1922
-"County Kilkenny North", 1885, 1922
-"County Kilkenny South", 1885, 1922
-"County Limerick East", 1885, 1922
-"County Limerick West", 1885, 1922
-"County Londonderry North", 1885, 1922
-"County Londonderry South", 1885, 1922
-"County Sligo North", 1885, 1922
-"County Sligo South", 1885, 1922
-"County Waterford", 1918, 1922
-"County Waterford", 1801, 1885
-"County Wexford North", 1885, 1922
-"County Wexford South", 1885, 1922
-'County Louth", 1918, 1922
-"Donegal East", 1885, 1922
-"Donegal North", 1885, 1922
-"Donegal South", 1885, 1922
-"Donegal West", 1885, 1922
-"Down East", 1885, 1922
-"Down Mid", 1918, 1922
-"Down North", 1885, 1922
-"Down South", 1885, 1922
-"Down West", 1885, 1922
-"Dublin Clontarf", 1918, 1922
-"Dublin College Green", 1885, 1922
-"Dublin Harbour", 1885, 1922
-"Dublin St James's", 1918, 1922
-"Dublin St Michan's", 1918, 1922
-"Dublin St Patrick's", 1885, 1922
-"Dublin St Stephen's Green", 1885, 1922
-"Dublin University", 1801, 1922
-"Fermanagh North", 1885, 1922
-"Fermanagh South", 1885, 1922
-"Kerry East", 1885, 1922
-"Kerry North", 1885, 1922
-"Kerry South", 1885, 1922
-"Kerry West", 1885, 1922
-"Kildare North", 1885, 1922
-"Kildare South", 1885, 1922
-"King's County", 1918, 1922
-"King's County", 1801, 1885
-"Leitrim", 1918, 1922
-"Leitrim", 1801, 1885
-"Limerick City", 1801, 1922
-"Londonderry City", 1801, 1922
-"Longford", 1918, 1922
-"Longford", 1801, 1885
-"Mayo East", 1885, 1922
-"Mayo North", 1885, 1922
-"Mayo South", 1885, 1922
-"Mayo West", 1885, 1922
-"Meath North", 1885, 1922
-"Meath South", 1885, 1922
-"Monaghan North", 1885, 1922
-"Monaghan South", 1885, 1922
-"National University of Ireland", 1918, 1922
-"Pembroke (Co Dublin)", 1918, 1922
-"Queen's County", 1918, 1922
-"Queen's County", 1801, 1885
-"Rathmines", 1918, 1922
-"Roscommon North", 1885, 1922
-"Roscommon South", 1885, 1922
-"Tipperary East", 1885, 1922
-"Tipperary Mid", 1885, 1922
-"Tipperary South", 1885, 1922
-"Tyrone North-East", 1918, 1922
-"Tyrone North-West", 1918, 1922
-"Tyrone South", 1885, 1922
-"Waterford City", 1801, 1922
-"Westmeath", 1918, 1922
-"Westmeath", 1801, 1885
-"Wicklow East", 1885, 1922
-"Wicklow West", 1885, 1922
-"Aberdeenshire Eastern", 1868, 1918
-"Aberdeenshire Western", 1868, 1918
-"Andover", 1586, 1918
-"Appleby", 1295, 1918
-"Arfon", 1885, 1918
-"Ashburton", 1885, 1918
-"Ashburton", 1640, 1868
-"Aston Manor", 1885, 1918
-"Ayrshire North", 1868, 1918
-"Battersea", 1885, 1918
-"Belfast East", 1885, 1918
-"Belfast North", 1885, 1918
-"Belfast South", 1885, 1918
-"Belfast West", 1885, 1918
-"Bermondsey", 1885, 1918
-"Biggleswade", 1885, 1918
-"Birkenhead", 1861, 1918
-"Birmingham Bordesley", 1885, 1918
-"Birmingham Central", 1885, 1918
-"Birmingham East", 1885, 1918
-"Birmingham Moseley", 1885, 1918
-"Birmingham North", 1885, 1918
-"Birmingham South", 1885, 1918
-"Birr", 1885, 1918
-"Blackfriars and Hutchesontown", 1885, 1918
-"Boston", 1547, 1918
-"Bradford West", 1885, 1918
-"Buteshire", 1708, 1918
-"Caithness", 1708, 1918
-"Cardiff", 1542, 1918
-"Chesterton", 1885, 1918
-"Christchurch", 1571, 1918
-"Clackmannan and Kinross", 1832, 1918
-"Cockermouth", 1640, 1918
-"County Louth North", 1885, 1918
-"County Louth South", 1885, 1918
-"County Waterford East", 1885, 1918
-"County Waterford West", 1885, 1918
-"Cricklade", 1295, 1918
-"Croydon", 1885, 1918
-"Droitwich", 1554, 1918
-"Dumfries District of Burghs", 1708, 1918
-"East Carmarthenshire", 1885, 1918
-"East Denbighshire", 1885, 1918
-"East Glamorganshire", 1885, 1918
-"East Northamptonshire", 1885, 1918
-"East Somerset", 1832, 1918
-"East Worcestershire", 1832, 1918
-"Edinburgh and St Andrews Universities", 1868, 1918
-"Egremont", 1885, 1918
-"Eifion", 1885, 1918
-"Elgin Burghs", 1708, 1918
-"Elginshire and Nairnshire", 1832, 1918
-"Eskdale", 1885, 1918
-"Falkirk District of Burghs", 1708, 1918
-"Finsbury Central", 1885, 1918
-"Finsbury East", 1885, 1918
-"Flint", 1542, 1918
-"Fulham", 1885, 1918
-"Galway Borough", 1801, 1918
-"Glasgow and Aberdeen Universities", 1868, 1918
-"Glasgow College", 1885, 1918
-"Haddingtonshire", 1708, 1918
-"Haggerston", 1885, 1918
-"Hallamshire", 1885, 1918
-"Hammersmith", 1885, 1918
-"Hammersmith", 1983, 1997
-"Hawick", 1868, 1918
-"Holmfirth", 1885, 1918
-"Hoxton", 1885, 1918
-"Hull West", 1885, 1918, "Kingston-upon-Hull West"
-"Hull West", 1955, 1997, "Kingston-upon-Hull West"
-"Huntingdon", 1295, 1918
-"Hyde", 1885, 1918
-"Inverness-shire", 1708, 1918
-"Kendal", 1832, 1918
-"Kilkenny City", 1801, 1918
-"Kilmarnock District of Burghs", 1832, 1918
-"Kincardineshire", 1708, 1918
-"Kirkcudbright", 1708, 1918
-"Launceston", 1295, 1918
-"Leeds East", 1885, 1918
-"Leicester", 1295, 1918
-"Leith District of Burghs", 1832, 1918
-"Leix", 1885, 1918
-"Lewisham", 1885, 1918
-"Liverpool Abercromby", 1885, 1918
-"Longford North", 1885, 1918
-"Longford South", 1885, 1918
-"Manchester East", 1885, 1918
-"Manchester North", 1885, 1918
-"Manchester North East", 1885, 1918
-"Manchester North West", 1885, 1918
-"Manchester South", 1885, 1918
-"Manchester South West", 1885, 1918
-"Marlborough", 1295, 1918
-"Marylebone East", 1885, 1918
-"Marylebone West", 1885, 1918
-"Medway", 1885, 1918
-"Merthyr Tydfil", 1832, 1918
-"Merthyr Tydfil", 1950, 1983
-"Mid County Durham", 1885, 1918
-"Middlesbrough", 1868, 1974
-"Midlothian", 1708, 1918, "Edinburghshire"
-"Mid Derbyshire", 1885, 1918
-"Mid Glamorganshire", 1885, 1918
-"Mid Lanarkshire", 1885, 1918
-"Mid Norfolk", 1885, 1918
-"Mid Northamptonshire", 1885, 1918
-"Monmouthshire North", 1885, 1918
-"Monmouthshire South", 1885, 1918
-"Monmouthshire West", 1885, 1918
-"Montgomery", 1542, 1918
-"Morley", 1885, 1918
-"Mossley", 1918, 1950
-"Newcastle-upon-Tyne", 1295, 1918
-"Newington West", 1885, 1918
-"Newmarket", 1885, 1918
-"Newport (Shropshire)", 1885, 1918
-"Newry", 1801, 1918
-"North East Lanarkshire", 1885, 1918
-"North Leitrim", 1885, 1918
-"North Lonsdale", 1885, 1918
-"North Northamptonshire", 1832, 1918
-"North Somerset", 1885, 1918
-"North West Durham", 1885, 1918
-"North West Lanarkshire", 1885, 1918
-"North Westmeath", 1885, 1918
-"North West Norfolk", 1885, 1918
-"North West Staffordshire", 1885, 1918
-"North Worcestershire", 1885, 1918
-"Osgoldcross", 1885, 1918
-"Ossory", 1885, 1918
-"Pembroke and Haverfordwest", 1885, 1918
-"Perthshire East", 1885, 1918
-"Perthshire West", 1885, 1918
-"Plymouth", 1442, 1918
-"Poplar", 1885, 1918
-"Poplar", 1950, 1974
-"Portsmouth", 1295, 1918
-"Prestwich", 1885, 1918
-"Radcliffe-cum-Farnworth", 1885, 1918
-"Radnorshire", 1542, 1918
-"Ramsay", 1885, 1918
-"Rhondda", 1885, 1918
-"Rochester", 1295, 1918
-"Ross (Herefordshire)", 1885, 1918
-"St Andrews", 1832, 1918
-"St Augustine's", 1885, 1918
-"St Austell", 1885, 1918
-"St George's (Tower Hamlets)", 1885, 1918
-"St Pancras East", 1885, 1918
-"St Pancras South", 1885, 1918
-"St Pancras West", 1885, 1918
-"Sleaford", 1885, 1918
-"South East County Durham", 1885, 1918
-"South Glamorganshire", 1885, 1918
-"South Lanarkshire", 1868, 1918
-"South Leitrim", 1885, 1918
-"South Northamptonshire", 1832, 1918
-"South Northamptonshire", 1950, 1974
-"South Somerset", 1885, 1918
-"Southwark West", 1885, 1918
-"South Westmeath", 1885, 1918
-"Stalybridge", 1868, 1918
-"Stamford", 1467, 1918
-"Stepney", 1885, 1918
-"Stepney", 1950, 1974
-"Stirlingshire", 1708, 1918
-"Stoke-upon-Trent", 1832, 1918
-"Stowmarket", 1885, 1918
-"Strand", 1885, 1918
-"Stratford-on-Avon", 1885, 1918
-"Sutherland", 1708, 1918
-"Caithness and Sutherland", 1918, 1997
-"Swansea District", 1885, 1918
-"Swansea Town", 1885, 1918
-"Tewkesbury", 1610, 1918
-"Tottenham", 1885, 1918
-"Truro", 1295, 1918
-"Truro", 1950, 1997
-"Tullamore", 1885, 1918
-"Tyneside", 1885, 1918
-"Tyrone East", 1885, 1918
-"Tyrone Mid", 1885, 1918
-"Tyrone North", 1885, 1918
-"Walthamstow	1885", 1918
-"Walworth", 1885, 1918
-"Wandsworth", 1885, 1918
-"Wellington (Shropshire)", 1885, 1918
-"Wellington (Somerset)", 1885, 1918
-"West Carmarthenshire", 1885, 1918
-"West Denbighshire", 1885, 1918
-"West Ham North", 1885, 1918
-"West Ham North", 1950, 1974
-"West Ham South", 1885, 1918
-"West Ham South" 1950, 1974
-"Westminster", 1545, 1918
-"West Staffordshire", 1868, 1918
-"Whitby", 1832, 1918
-"Wick District of Burghs", 1708, 1918, "Northern Burghs"
-"Wigtownshire", 1708, 1918
-"Wilton", 1295, 1918
-"Wisbech", 1885, 1918
-"Wokingham", 1885, 1918
-"Wolverhampton South", 1885, 1918
-"Woodstock", 1571, 1918
-"Woolwich", 1885, 1918
-"Woolwich", 1983, 1997
-"Aberdeen", 1832, 1885
-"Antrim", 1801, 1885
-"Antrim", 1922, 1950
-"City of Armagh", 1801, 1885
-"County Armagh", 1801, 1885
-"County Armagh", 1922, 1983
-"Athlon", 1801, 1885
-"Bandon", 1801, 1885
-"Beaumaris", 1553, 1885
-"Bedfordshire", 1290, 1885
-"Belfast", 1801, 1885
-"Berkshire", 1290, 1885
-"Birmingham", 1832, 1885
-"Bradford (Yorkshire)", 1832, 1885
-"Brecon", 1542, 1885
-"Bridgnorth", 1295, 1885
-"Bridport", 1295, 1885
-"Bristol", 1295, 1885
-"Buckinghamshire", 1290, 1885
-"Caernarvonshire", 1542, 1885
-"Caernarvonshire", 1918, 1950
-"Calne", 1295, 1885
-"Cambridgeshire", 1290, 1885
-"Cambridgeshire", 1918, 1983
-"Cardigan", 1542, 1885
-"Cardigan" 1974, 1883
-"Borough of Carlow", 1801, 1885
-"Carmarthenshire", 1542, 1885
-"Carrickfergus", 1801, 1885
-"Cavan", 1801, 1885
-"East Cheshire", 1868, 1885
-"Mid Cheshire", 1868, 1885
-"West Cheshire", 1868, 1885
-"Clare", 1801, 1885
-"Clonmel", 1801, 1885
-"Coleraine", 1801, 1885
-"County Cork", 1801, 1885
-"East Cornwall", 1832, 1885
-"West Cornwall", 1832, 1885
-"East Cumberland", 1832, 1885
-"West Cumberland", 1832, 1885
-"Denbighshire", 1542, 1885
-"East Derbyshire", 1868, 1885
-"North Derbyshire", 1832, 1885
-"East Devon", 1868, 1885
-"North Devon", 1832, 1885
-"South Devon", 1832, 1885
-"Donegal", 1801, 1885
-"Dorchester", 1295, 1885
-"Dorset", 1290, 1885
-"Down", 1801, 1885
-"Down", 1922, 1950
-"Downpatrick", 1801, 1885
-"Drogheda", 1801, 1885
-"City of Dublin", 1801, 1885
-"County Dublin", 1801, 1885
-"Dundalk", 1801, 1885
-"Dungannon", 1801, 1885
-"Dungarvan", 1801, 1885
-"North Durham", 1832, 1885
-"South Durham", 1832, 1885
-"East Retford", 1571, 1885
-"East Retford", 1316, 1327
-"East Riding of Yorkshire", 1832, 1885
-"Edinburgh", 1708, 1885
-"Ennis", 1801, 1885
-"Enniskillen", 1801, 1885
-"East Essex", 1868, 1885
-"South Essex", 1832, 1885
-"West Essex", 1868, 1885
-"Fermanagh", 1801, 1885
-"Fife", 1708, 1885
-"Finsbury", 1832, 1885
-"Finsbury", 1918, 1950
-"County Galway", 1801, 1885
-"Glamorganshire", 1542, 1885
-"Glasgow", 1832, 1885
-"East Gloucestershire", 1832, 1885
-"West Gloucestershire", 1832, 1885
-"West Gloucestershire", 1950, 1997
-"Great Marlow", 1625, 1885
-"Great Marlow", 1301, 1307
-"Hackney", 1868, 1885
-"Haddington", 1708, 1885
-"North Hampshire", 1832, 1885
-"South Hampshire", 1832, 1885
-"Haverfordwest", 1545, 1885
-"Helston", 1298, 1885
-"Herefordshire", 1290, 1885
-"Hertfordshire", 1290, 1885
-"Huntingdonshire", 1290, 1885
-"Huntingdonshire", 1918, 1983
-"East Kent", 1832, 1885
-"Mid Kent", 1868, 1885
-"Mid Kent", 1983, 1997
-"West Kent", 1832, 1885
-"Kerry", 1801, 1885
-"Kildare", 1801, 1885
-"County Kilkenny", 1801, 1885
-"King's County", 1801, 1885
-"King's County", 1918, 1922
-"Kingston-upon-Hull", 1334, 1885
-"Kingston-upon-Hull", 1305, 1327
-"Kinsale", 1801, 1885
-"Knaresborough", 1553, 1885
-"Lambeth", 1832, 1885
-"North Lanarkshire", 1868, 1885
-"North Lanarkshire", 1918, 1983
-"North Lancashire", 1832, 1885
-"North East Lancashire", 1868, 1885
-"South East Lancashire", 1868, 1885
-"South West Lancashire", 1868, 1885
-"Leeds", 1832, 1885
-"North Leicestershire", 1832, 1885
-"South Leicestershire", 1832, 1885
-"Leitrim", 1801, 1885
-"Leitrim", 1918, 1922
-"Limerick (County)", 1801, 1885
-"Mid Lincolnshire", 1868, 1885
-"North Lincolnshire", 1868, 1885
-"South Lincolnshire", 1868, 1885
-"Lisburn", 1801, 1885
-"Liskeard", 1295, 1885
-"Liverpool", 1545, 1885
-"Liverpool", 1295, 1442
-"Londonderry (County)", 1801, 1885
-"Londonderry (County)", 1922, 1983
-"Longford", 1801, 1885
-"Longford", 1918, 1922
-"Louth (County)", 1801, 1885
-"Louth (County)", 1918, 1922
-"Lymington", 1584, 1885
-"Mallow", 1801, 1885
-"Malmesbury", 1295, 1885
-"Malton", 1641, 1885
-"Manchester", 1832, 1885
-"Marlborough", 1295, 1885
-"Marylebone", 1832, 1885
-"Mayo", 1801, 1885
-"Meath", 1801, 1885
-"Middlesex", 1290, 1885
-"Midhurst", 1311, 1885
-"Monaghan", 1801, 1885
-"Monmouthshire", 1542, 1885
-"Much Wenlock", 1472, 1885
-"Newport (Isle of Wight)", 1584, 1885
-"New Ross", 1801, 1885
-"New Shoreham", 1295, 1885
-"Shoreham", 1994, 1997
-"West Norfolk", 1832, 1885
-"Northallerton", 1641, 1885
-"North Riding of Yorkshire", 1832, 1885
-"North Northumberland", 1832, 1885
-"South Northumberland", 1832, 1885
-"Nottingham", 1295, 1885
-"North Nottinghamshire", 1832, 1885
-"South Nottinghamshire", 1832, 1885
-"Oxfordshire", 1290, 1885
-"Pembroke (Pembrokeshire)", 1542, 1885
-"Pembroke (Pembrokeshire)", 1974, 1983
-"Perthshire", 1708, 1885
-"Poole", 1453, 1885
-"Poole", 1362, 1377
-"Portarlington", 1801, 1885
-"Queen's County", 1801, 1885
-"Queen's County", 1918, 1922
-"Radnor", 1542, 1885, "New Radnor"
-"Renfrewshire", 1708, 1885
-"Roscommon", 1801, 1885
-"Salford", 1832, 1885
-"Sandwich", 1366, 1885
-"Shaftesbury", 1295, 1885
-"Sheffield", 1832, 1885
-"North Shropshire", 1832, 1885
-"South Shropshire", 1832, 1885
-"County Sligo", 1801, 1885
-"Mid Somerset", 1868, 1885
-"West Somerset", 1832, 1885
-"Southwark", 1295, 1885
-"Southwark", 1983, 1997
-"East Staffordshire", 1868, 1885
-"North Staffordshire", 1832, 1885
-"East Suffolk", 1832, 1885
-"West Suffolk", 1832, 1885
-"East Surrey", 1832, 1885
-"Mid Surrey", 1868, 1885
-"West Surrey", 1832, 1885
-"East Sussex", 1832, 1885
-"West Sussex", 1832, 1885
-"Swansea", 1832, 1885
-"Thirsk", 1547, 1885
-"Tipperary", 1801, 1885
-"Tower Hamlets", 1832, 1885
-"Tralee", 1801, 1885
-"Tynemouth and North Shields", 1832, 1885
-"Tyrone", 1801, 1885
-"Wallingford", 1295, 1885
-"Wareham", 1302, 1885
-"Warwick", 1295, 1885
-"North Warwickshire", 1832, 1885
-"South Warwickshire", 1832, 1885
-"County Waterford", 1801, 1885
-"County Waterford", 1918, 1922
-"Westmeath", 1801, 1885
-"Westmeath", 1918, 1922
-"Westmorland", 1290, 1885
-"Westmorland", 1918, 1983
-"West Riding of Yorkshire East", 1865, 1885
-"West Riding of Yorkshire North", 1865, 1885
-"West Riding of Yorkshire South", 1865, 1885
-"Borough of Wexford", 1801, 1885
-"County Wexford", 1801, 1885
-"Weymouth and Melcombe Regis", 1572, 1885
-"Wicklow", 1801, 1885
-"Wigtown", 1708, 1885
-"North Wiltshire", 1832, 1885
-"South Wiltshire", 1832, 1885
-"Wolverhampton", 1832, 1885
-"Worcestershire West", 1832, 1885
-"Youghal", 1801, 1885
-"Beverley", 1295, 1305
-"Beverley", 1950, 1955
-"Beverley", 1983, 1997
-"Beverley", 1563, 1870
-"Bridgwater", 1295, 1870
-"Cashel", 1801, 1870
-"Sligo (Borough)", 1801, 1870
-"Aberdeenshire", 1708, 1868
-"Arundel", 1295, 1868
-"Arundel", 1974, 1997
-"Ashburton", 1640, 1868
-"Ashburton", 1885, 1918
-"Ayrshire", 1708, 1868	
-"North Ayrshire", 1868, 1918
-"South Ayrshire", 1868, 1983
-"North Cheshire", 1832, 1868
-"South Cheshire", 1832, 1868
-"Dartmouth", 1351, 1868
-"North Essex", 1832, 1868
-"Great Yarmouth", 1298, 1868, "Yarmouth (Norfolk)"
-"Honiton", 1640, 1868
-"Honiton", 1301, 1307
-"South Lancashire", 1832, 1868
-"Lancaster", 1523, 1868
-"Lancaster", 1295, 1376
-"Lancaster", 1885, 1997
-"Lanarkshire", 1708, 1868
-"Lyme Regis", 1295, 1868
-"East Norfolk", 1832, 1868
-"Peeblesshire", 1708, 1868
-"Reigate", 1295, 1868
-"Selkirkshire", 1708, 1868
-"South Staffordshire", 1832, 1868
-"Thetford", 1529, 1868
-"Totnes", 1295, 1868
-"Totnes", 1885, 1983
-"Wells", 1295, 1868
-"West Riding of Yorkshire", 1832, 1865
-"St Albans", 1553, 1852
-"St Albans", 1311, 1326
-"Sudbury", 1559, 1844
-"Sudbury", 1885, 1950
-"Aberdeen Burghs", 1708, 1832
-"Aldborough", 1558, 1832
-"Aldeburgh", 1571, 1832
-"Amersham", 1625, 1832
-"Amersham", 1300, 1307
-"Anstruther Easter Burghs", 1708, 1832
-"Appleby", 1295, 1832
-"Bere Alston", 1584, 1832
-"Bishop's Castle", 1584, 1832
-"Bletchingley", 1295, 1832
-"Boroughbridge", 1553, 1832
-"Bossiney", 1547, 1832
-"Brackley", 1547, 1832
-"Bramber", 1467, 1832
-"Bramber", 1295, 1441
-"Buteshire or Caithness", 1708, 1832
-"Buteshire", 1832, 1918
-"Caithness", 1832, 1918, , "Were paired as alternating constituencies until 1832"
-"Callington", 1584, 1832
-"Camelford", 1547, 1832
-"Castle Rising", 1558, 1832
-"Cheshire", 1545, 1832
-"Corfe Castle", 1572, 1832
-"Cornwall", 1290, 1832
-"Cromartyshire or Nairnshire", 1708, 1832, , "Were paired as alternating constituencies until 1832"
-"Ross and Cromarty", 1832, 1983
-"Elginshire and Nairnshire", 1832, 1918
-"Cumberland", 1290, 1832
-"Derbyshire", 1290, 1832
-"Devon", 1290, 1832
-"Downton", 1467, 1832
-"Downton", 1295, 1441
-"Dunwich", 1298, 1832
-"County Durham", 1675, 1832
-"Dysart Burghs", 1708, 1832
-"East Grinstead", 1307, 1832
-"East Looe", 1571, 1832
-"Elginshire", 1708, 1832
-"Essex", 1290, 1832
-"Fowey", 1571, 1832
-"Gatton", 1450, 1832
-"Glasgow Burghs", 1708, 1832, "Clyde Burghs"
-"Gloucestershire", 1290, 1832
-"Great Bedwyn", 1295, 1832
-"Hampshire", 1290, 1832
-"Haslemere", 1584, 1832
-"Hedon", 1547, 1832
-"Heytesbury", 1449, 1832
-"Higham Ferrers", 1558, 1832
-"Hindon", 1449, 1832
-"Ilchester", 1621, 1832
-"Kent", 1290, 1832
-"Lanark Burghs", 1708, 1832, "Linlithgow Burghs"
-"Lancashire", 1290, 1832
-"Leicestershire", 1290, 1832
-"Lincolnshire", 1290, 1832
-"Lostwithiel", 1305, 1832
-"Ludgershall", 1295, 1832
-"Milborne Port", 1628, 1832
-"Milborned Port" 1298, 1307
-"Minehead", 1563, 1832
-"Mitchell", 1547, 1832, "St Michael's"
-"New Romney", 1371, 1832
-"Newport (Cornwall)", 1529, 1832
-"Newton (Lancashire)", 1559, 1832
-"Newtown (Isle of Wight)", 1584, 1832
-"Norfolk", 1290, 1832
-"Northamptonshire", 1290, 1832
-"Northumberland", 1290, 1832
-"Nottinghamshire", 1290, 1832
-"Okehampton", 1640, 1832
-"Okehampton", 1301, 1307
-"Old Sarum", 1295, 1832
-"Orford", 1512, 1832
-"Orford", 1298, 1307
-"Plympton Erle", 1295, 1832
-"Queenborough", 1571, 1832
-"Ross-shire", 1708, 1832
-"St Germans", 1563, 1832
-"St Mawes", 1563, 1832
-"Saltash", 1547, 1832
-"Seaford", 1641, 1832
-"Seaford", 1298, 1307
-"Shropshire", 1290, 1832
-"Somerset", 1290, 1832
-"Staffordshire", 1290, 1832
-"Steyning", 1467, 1832
-"Steyning", 1298, 1307
-"Steyning", 1327, 1442
-"Stockbridge", 1563, 1832
-"Suffolk", 1290, 1832
-"Surrey", 1290, 1832
-"Sussex", 1290, 1832
-"Tain Burghs", 1708, 1832
-"Tregony", 1559, 1832
-"Warwickshire", 1290, 1832
-"Wendover", 1625, 1832
-"Wendover", 1301, 1307
-"Weobley", 1628, 1832
-"West Looe", 1547, 1832
-"Whitchurch", 1584, 1832
-"Wiltshire", 1290, 1832
-"Winchelsea", 1366, 1832
-"Wootton Bassett", 1447, 1832
-"Worcestershire", 1290, 1832
-"Yarmouth (Isle of Wight)", 1584, 1832
-"Yorkshire", 1290, 1832
-"Grampound", 1547, 1821
-"Melcombe Regis", 1319, 1572
-"Weymouth", 1348, 1572
-"Calais", 1372, 1558
-"Newborough", 1542, 1553
-"Tournai", 1513, 1519
-"Grantham", 1467, 1472
-"Grantham", 1484, 1997
-"Derby", 1295, 1467
-"Derby", 1472, 1950
-"Great Grimsby", 1295, 1467, "Grimsby"
-"Southampton", 1295, 1467
-"Southampton", 1472, 1950
-"Winchester", 1295, 1467
-"Amber Valley", 1983
-"Bolsover", 1950
-"Chesterfield", 1885
-"Derby North", 1950
-"Derby South", 1950
-"Erewash", 1983
-"High Peak", 1885
-"North East Derbyshire", 1885
-"South Derbyshire", 1983
-"West Derbyshire", 1885
-"Blaby", 1974
-"Bosworth", 1885
-"Charnwood", 1997
-"Harborough", 1885
-"Leicester East", 1974
-"Leicester South", 1974
-"Leicester West", 1974
-"Loughborough", 1885
-"North West Leicestershire", 1983
-"Rutland and Melton", 1983
-"Boston and Skegness", 1997
-"Gainsborough", 1885
-"Grantham and Stamford", 1997
-"Lincoln", 1265
-"Louth and Horncastle", 1997
-"Sleaford and North Hykeham", 1997
-"South Holland and The Deepings", 1997
-"Corby", 1983
-"Daventry", 1974
-"Kettering", 1918
-"Northampton North", 1974
-"Northampton South", 1974
-"Wellingborough", 1918
-"Ashfield", 1955
-"Bassetlaw", 1885
-"Broxtowe", 1983
-"Gedling", 1983
-"Mansfield", 1885
-"Newark", 1673
-"Nottingham East", 1974
-"Nottingham North", 1955
-"Nottingham South", 1983
-"Rushcliffe", 1885
-"Sherwood", 1983
-"Bedford", 1997
-"Luton North", 1983
-"Luton South", 1983
-"Mid Bedfordshire", 1918
-"North East Bedfordshire", 1997
-"South West Bedfordshire", 1983
-"Cambridge", 1295
-"Huntingdon", 1983
-"North East Cambridgeshire", 1983
-"North West Cambridgeshire", 1997
-"Peterborough", 1541
-"South Cambridgeshire", 1997
-"South East Cambridgeshire", 1983
-"Basildon", 1974
-"Billericay", 1983
-"Braintree", 1974
-"Brentwood and Ongar", 1974
-"Castle Point", 1983
-"Colchester", 1997
-"Epping Forest", 1974
-"Harlow", 1974
-"Harwich", 1707
-"Maldon and East Chelmsford", 1997
-"North Essex", 1997
-"Rayleigh", 1997
-"Rochford and Southend East", 1997
-"Saffron Walden", 1885
-"Southend West", 1950
-"Thurrock", 1945
-"West Chelmsford", 1997
-"Broxbourne", 1983
-"Hemel Hempstead", 1997
-"Hertford and Stortford", 1983
-"Hertsmere", 1983
-"Hitchin and Harpenden", 1997
-"North East Hertfordshire", 1997
-"St Albans", 1885
-"South West Hertfordshire", 1950
-"Stevenage", 1983
-"Watford", 1885
-"Welwyn Hatfield", 1974
-"Great Yarmouth", 1885
-"Mid Norfolk", 1983
-"North Norfolk", 1868
-"North West Norfolk", 1974
-"Norwich North', 1950
-"Norwich South", 1950
-"South Norfolk", 1868
-"South West Norfolk", 1885
-"Bury St Edmunds, 1641
-"Central Suffolk and North Ipswich", 1997
-"Ipswich", 1295
-"South Suffolk", 1983
-"Suffolk Coastal", 1983
-"Waveney", 1983
-"West Suffolk", 1997
-"Barking", 1945
-"Bethnal Green and Bow", 1997
-"Chingford and Woodford Green", 1997
-"Dagenham", 1945
-"East Ham", 1997
-"Edmonton", 1918
-"Enfield North", 1974
-"Enfield Southgate", 1983
-"Hackney North and Stoke Newington", 1950
-"Hackney South and Shoreditch", 1974
-"Hornchurch", 1945
-"Hornsey and Wood Green", 1983
-"Ilford North", 1945
-"Ilford South", 1945
-"Islington North", 1885
-"Islington South and Finsbury", 1974
-"Leyton and Wanstead", 1997
-"Poplar and Canning Town", 1997
-"Romford", 1885
-"Tottenham", 1950
-"Upminster", 1974
-"Walthamstow", 1974
-"West Ham", 1997
-"Brent East", 1974
-"Brent North", 1974
-"Brent South", 1974
-"Chipping Barnet", 1974
-"Cities of London and Westminster", 1950
-"Ealing, Acton and Shepherd's Bush", 1997
-"Ealing North", 1950
-"Ealing Southall", 1983
-"Finchley and Golders Green", 1997
-"Hammersmith and Fulham", 1997
-"Hampstead and Highgate", 1983
-"Harrow East", 1945
-"Harrow West", 1945
-"Hayes and Harlington", 1950
-"Hendon", 1997
-"Holborn and St. Pancras", 1983
-"Kensington and Chelsea", 1997
-"Regent's Park and Kensington North", 1997
-"Ruislip-Northwood", 1950
-"Uxbridge", 1885
-"Beckenham", 1950
-"Bexleyheath and Crayford", 1997
-"Bromley and Chislehurst", 1997
-"Camberwell and Peckham", 1997
-"Croydon Central", 1974
-"Croydon North", 1997
-"Croydon South", 1974
-"Dulwich and West Norwood", 1997
-"Eltham", 1983
-"Erith and Thamesmead", 1997
-"Greenwich and Woolwich", 1997
-"Lewisham Deptford", 1974
-"Lewisham East", 1974
-"Lewisham West", 1918
-"North Southwark and Bermondsey", 1997
-"Old Bexley and Sidcup", 1983
-"Battersea", 1983
-"Brentford and Isleworth", 1974
-"Carshalton and Wallington", 1983
-"Feltham and Heston", 1974
-"Kingston and Surbiton", 1997
-"Mitcham and Morden", 1974
-"Putney", 1918
-"Richmond Park", 1997
-"Streatham", 1918
-"Sutton and Cheam", 1945
-"Tooting", 1974
-"Twickenham", 1918
-"Vauxhall", 1950
-"Wimbledon", 1885
-"Hartlepool", 1868
-"Middlesbrough", 1974
-"Middlesbrough South and East Cleveland", 1997
-"Redcar", 1974
-"Stockton North", 1983
-"Stockton South", 1983
-"Bishop Auckland", 1885
-"City of Durham", 1678
-"Darlington", 1868
-"Easington", 1950
-"North Durham", 1983
-"North West Durham", 1950
-"Sedgefield", 1983
-"Berwick-upon-Tweed", 1512
-"Blyth Valley", 1950
-"Hexham", 1885
-"Wansbeck", 1983
-"Blaydon", 1918
-"Gateshead East and Washington West", 1997
-"Houghton and Washington East", 1983
-"Jarrow", 1885
-"Newcastle upon Tyne Central", 1918
-"Newcastle upon Tyne East and Wallsend", 1997
-"Newcastle upon Tyne North", 1918
-"North Tyneside", 1997
-"South Shields", 1832
-"Sunderland North", 1950
-"Sunderland South", 1950
-"Tyne Bridge", 1983
-"Tynemouth", 1885
-"City of Chester", 1545
-"Congleton", 1983
-"Crewe and Nantwich", 1983
-"Eddisbury", 1983
-"Ellesmere Port and Neston", 1983
-"Halton", 1983
-"Macclesfield", 1885
-"Tatton", 1983
-"Warrington North", 1983
-"Warrington South", 1983
-"Weaver Vale", 1997
-"Barrow and Furness", 1885
-"Carlisle", 1295
-"Copeland", 1983
-"Penrith and The Border", 1950
-"Westmorland and Lonsdale", 1983
-"Workington", 1918
-"Altrincham and Sale West", 1997
-"Ashton-under-Lyne", 1832
-"Bolton North East", 1983
-"Bolton South East", 1983
-"Bolton West", 1950
-"Bury North", 1983
-"Bury South", 1983
-"Cheadle", 1950
-"Denton and Reddish", 1983
-"Eccles", 1885
-"Hazel Grove", 1974
-"Heywood and Middleton", 1983
-"Leigh", 1885
-"Makerfield", 1983
-"Manchester Blackley", 1918
-"Manchester Central", 1974
-"Manchester Gorton", 1918
-"Manchester Withington", 1918
-"Oldham East and Saddleworth", 1997
-"Oldham West and Royton", 1997
-"Rochdale", 1832
-"Salford", 1997
-"Stalybridge and Hyde", 1918
-"Stockport", 1983
-"Stretford and Urmston", 1997
-"Wigan", 1545
-"Worsley", 1983
-"Wythenshawe and Sale East", 1997
-"Blackburn", 1955
-"Blackpool North and Fleetwood", 1997
-"Blackpool South", 1945
-"Burnley", 1868
-"Chorley", 1885
-"Fylde", 1983
-"Hyndburn", 1983
-"Lancaster and Wyre", 1997
-"Morecambe and Lunesdale", 1983
-"Pendle", 1983
-"Preston", 1983
-"Ribble Valley", 1983
-"Rossendale and Darwen", 1983
-"South Ribble", 1983
-"West Lancashire", 1983
-"Birkenhead", 1950
-"Bootle", 1885
-"Crosby", 1950
-"Knowsley North and Sefton East", 1997
-"Knowsley South", 1983
-"Liverpool Garston", 1950
-"Liverpool Riverside", 1983
-"Liverpool Walton", 1885
-"Liverpool Wavertree", 1997
-"Liverpool West Derby", 1885
-"St Helens North", 1983
-"St Helens South", 1983
-"Southport", 1885
-"Wallasey", 1918
-"Wirral South", 1983
-"Wirral West", 1983
-"Bracknell", 1997
-"Maidenhead", 1997
-"Newbury", 1885
-"Reading East", 1983
-"Reading West", 1983
-"Slough", 1983
-"Windsor", 1997
-"Windsor", 1424, 1974
-"Windsor and Maidenhead", 1974, 1997
-"Wokingham", 1950
-"Aylesbury", 1553
-"Beaconsfield", 1974
-"Buckingham", 1542
-"Chesham and Amersham", 1974
-"Milton Keynes South West", 1992
-"North East Milton Keynes", 1992
-"Wycombe", 1295
-"Bexhill and Battle", 1983
-"Brighton Kemptown", 1950
-"Brighton Pavilion", 1950
-"Eastbourne", 1885
-"Hastings and Rye", 1983
-"Hove", 1950
-"Lewes", 1295
-"Wealden", 1983
-"Aldershot", 1918
-"Basingstoke", 1885
-"East Hampshire", 1983
-"Eastleigh", 1955
-"Fareham", 1974
-"Fareham", 1885, 1950
-"Gosport", 1974
-"Havant", 1983
-"New Forest East", 1997
-"New Forest West", 1997
-"North East Hampshire", 1997
-"North West Hampshire", 1983
-"Portsmouth North", 1974
-"Portsmouth South", 1918
-"Romsey", 1983
-"Southampton Itchen", 1950
-"Southampton Test", 1950
-"Winchester", 1295
-"Isle of Wight", 1832
-"Ashford", 1885
-"Canterbury", 1295
-"Chatham and Aylesford", 1997
-"Dartford", 1885
-"Dover", 1369
-"Faversham and Mid Kent", 1997
-"Folkestone and Hythe", 1950
-"Gillingham", 1918
-"Gravesham", 1983
-"Maidstone and The Weald", 1997
-"Medway", 1983
-"North Thanet", 1983
-"Orpington", 1945
-"Sevenoaks", 1885
-"Sittingbourne and Sheppey", 1997
-"South Thanet", 1983
-"Tonbridge and Malling", 1974
-"Tunbridge Wells", 1974
-"Banbury", 1553
-"Henley", 1885
-"Oxford East", 1983
-"Oxford West and Abingdon", 1983
-"Wantage", 1983
-"Witney", 1983
-"East Surrey", 1918
-"Epsom and Ewell", 1885
-"Esher and Walton", 1950
-"Guildford", 1295
-"Mole Valley", 1983
-"Reigate", 1885
-"Runnymede and Weybridge", 1997
-"South West Surrey", 1983
-"Spelthorne", 1918
-"Surrey Heath", 1997
-"Woking", 1950
-"Arundel and South Downs", 1997
-"Bognor Regis and Littlehampton", 1997
-"Chichester", 1295
-"Crawley", 1983
-"East Worthing and Shoreham", 1997
-"Horsham", 1983
-"Horsham", 1295, 1918
-"Horsham", 1945, 1974
-"Horsham and Worthing", 1918, 1945
-"Mid Sussex", 1974
-"Worthing West", 1997
-"Bath", 1295
-"Bristol East", 1983
-"Bristol North West", 1950
-"Bristol South", 1885
-"Bristol West", 1885
-"Kingswood", 1974
-"Northavon", 1983
-"Wansdyke", 1983
-"Weston-Super-Mare", 1918
-"Woodspring", 1983
-"Falmouth and Camborne", 1950
-"North Cornwall", 1918
-"St Ives", 1558
-"South East Cornwall", 1983
-"Truro and St Austell", 1997
-"East Devon", 1997
-"Exeter", 1295
-"North Devon", 1950
-"Plymouth Devonport", 1832
-"Plymouth Sutton", 1918
-"South West Devon", 1997
-"Teignbridge", 1983
-"Tiverton and Honiton", 1997
-"Torbay", 1974
-"Torridge and West Devon", 1983
-"Totnes", 1997
-"Bournemouth East", 1974
-"Bournemouth West", 1950
-"Christchurch", 1983
-"Mid Dorset and North Poole", 1997
-"North Dorset", 1885
-"Poole", 1950
-"South Dorset", 1885
-"West Dorset", 1885
-"Cheltenham", 1832
-"Cotswold", 1997
-"Forest of Dean", 1997
-"Gloucester", 1295
-"Stroud", 1955
-"Stroud", 1832, 1950
-"Stroud and Thornbury", 1950, 1955
-"Tewkesbury", 1997
-"Bridgwater", 1885
-"Somerton and Frome", 1983
-"Taunton", 1295
-"Wells", 1885
-"Yeovil", 1918
-"Devizes", 1331
-"North Swindon", 1997
-"North Wiltshire", 1983
-"Salisbury", 1295
-"South Swindon", 1997
-"Westbury", 1449
-"Bromsgrove", 1950
-"Hereford", 1295
-"Leominster", 1295
-"Mid Worcestershire", 1983
-"Redditch", 1997
-"West Worcestershire", 1997
-"West Worcestershire", 1832, 1885
-"Worcester", 1295
-"Wyre Forest", 1983
-"Ludlow", 1885
-"North Shropshire", 1983
-"Shrewsbury and Atcham", 1983
-"Telford", 1997
-"The Wrekin", 1997
-"Burton", 1885
-"Cannock Chase", 1997
-"Lichfield", 1997
-"Lichfield", 1305, 1950
-"Newcastle-under-Lyme", 1354
-"South Staffordshire", 1983
-"Stafford", 1295, 1950
-"Stafford", 1983
-"Staffordshire Moorlands", 1983
-"Stoke-on-Trent Central", 1950
-"Stoke-on-Trent North", 1950
-"Stoke-on-Trent South", 1950
-"Stone", 1997
-"Stone", 1918, 1950
-"Tamworth", 1997
-"North Warwickshire", 1983
-"Nuneaton", 1885
-"Rugby and Kenilworth", 1983
-"Stratford-on-Avon", 1950
-"Warwick and Leamington", 1885
-"Aldridge-Brownhills", 1974
-"Birmingham Edgbaston", 1885
-"Birmingham Erdington", 1974
-"Birmingham Hall Green", 1950
-"Birmingham Hodge Hill", 1983
-"Birmingham Ladywood", 1918
-"Birmingham Northfield", 1950
-"Birmingham Perry Barr", 1950
-"Birmingham Selly Oak", 1955
-"Birmingham Sparkbrook and Small Heath", 1997
-"Birmingham Yardley", 1918
-"Coventry North East", 1974
-"Coventry North West", 1974
-"Coventry South", 1997
-"Dudley North", 1997
-"Dudley South", 1997
-"Halesowen and Rowley Regis", 1997
-"Meriden", 1955
-"Solihull", 1945
-"Stourbridge", 1997
-"Sutton Coldfield", 1945
-"Walsall North", 1955
-"Walsall South", 1955
-"Warley", 1997
-"West Bromwich East", 1974
-"West Bromwich West", 1974
-"Wolverhampton North East", 1950
-"Wolverhampton South East", 1974
-"Wolverhampton South West", 1950
-"Beverley and Holderness", 1997
-"Brigg and Goole", 1997
-"Cleethorpes", 1997
-"East Yorkshire", 1997
-"Great Grimsby", 1295
-"Haltemprice and Howden", 1997
-"Kingston upon Hull East", 1885
-"Kingston upon Hull North", 1983
-"Kingston upon Hull West and Hessle", 1997
-"Scunthorpe", 1997
-"City of York", 1265
-"Harrogate and Knaresborough", 1950
-"Richmond (Yorks)", 1585
-"Ryedale", 1983
-"Scarborough and Whitby", 1997
-"Scarborough and Whitby", 1918, 1974
-"Selby", 1983
-"Skipton and Ripon", 1983
-"Vale of York", 1997
-"Barnsley Central", 1983
-"Barnsley East and Mexborough", 1983
-"Barnsley West and Penistone", 1983
-"Don Valley", 1918
-"Doncaster Central", 1983
-"Doncaster North", 1983
-"Rother Valley", 1918
-"Rotherham", 1885
-"Sheffield Attercliffe", 1885
-"Sheffield Brightside", 1885
-"Sheffield Central", 1983
-"Sheffield Hallam", 1885
-"Sheffield Heeley", 1950
-"Sheffield Hillsborough", 1918
-"Wentworth", 1983
-"Batley and Spen", 1983
-"Bradford North", 1918
-"Bradford South", 1918
-"Bradford West", 1955
-"Calder Valley", 1983
-"Colne Valley", 1885
-"Dewsbury", 1868
-"Elmet", 1983
-"Halifax", 1832
-"Hemsworth", 1918
-"Huddersfield", 1983
-"Keighley", 1885
-"Leeds Central", 1983
-"Leeds East", 1955
-"Leeds North East", 1918
-"Leeds North West", 1950
-"Leeds West", 1885
-"Morley and Rothwell", 1997
-"Normanton", 1885
-"Pontefract and Castleford", 1974
-"Pudsey", 1950
-"Pudsey", 1885, 1918
-"Pudsey and Otley", 1918, 1950
-"Shipley", 1885
-"Wakefield", 1832
-"Belfast East", 1922
-"Belfast North", 1922
-"Belfast South", 1922
-"Belfast West", 1922
-"East Antrim", 1983
-"East Antrim", 1885, 1922
-"East Londonderry", 1983
-"Fermanagh & South Tyrone", 1950
-"Foyle", 1983
-"Lagan Valley", 1983
-"Mid Ulster", 1950
-"Newry & Armagh", 1983
-"North Antrim", 1950
-"North Down", 1950
-"North Down", 1885, 1922
-"South Antrim", 1950
-"South Down", 1950
-"South Down", 1885, 1922
-"Strangford", 1983
-"Upper Bann", 1983
-"West Tyrone", 1997
-"Dumfries and Galloway", 2005
-"Dumfriesshire, Clydesdale and Tweeddale", 2005
-"Berwickshire, Roxburgh and Selkirk", 2005
-"Central Ayrshire", 2005
-"Ayr, Carrick and Cumnock", 2005
-"Kilmarnock and Loudoun", 1983
-"North Ayrshire and Arran", 2005
-"East Kilbride, Strathaven and Lesmahagow", 2005
-"Lanark and Hamilton East", 2005
-"Rutherglen and Hamilton West", 2005
-"Coatbridge, Chryston and Bellshill", 2005
-"Cumbernauld, Kilsyth and Kirkintilloch East", 2005
-"Airdrie and Shotts", 1997
-"Motherwell and Wishaw", 1997
-"East Lothian", 1983
-"Midlothian", 1955
-"Edinburgh East", 2005
-"Edinburgh East", 1885, 1997
-"Edinburgh North and Leith", 1997
-"Edinburgh South", 1885
-"Edinburgh South West", 2005
-"Edinburgh West", 1885
-"Linlithgow and East Falkirk", 2005
-"Livingston", 1983
-"Falkirk", 2005
-"Falkirk", 1832, 1918
-"West Dunbartonshire", 2005
-"East Dunbartonshire", 2005
-"Paisley and Renfrewshire North", 2005
-"Paisley and Renfrewshire South", 2005
-"East Renfrewshire", 2005
-"Inverclyde", 2005
-"Glasgow Central", 2005
-"Glasgow East", 2005
-"Glasgow North", 2005
-"Glasgow North East", 2005
-"Glasgow North West", 2005
-"Glasgow South", 2005
-"Glasgow South West", 2005
-"Ochil and South Perthshire", 2005
-"Perth and North Perthshire", 2005
-"Stirling", 1983
-"Glenrothes", 2005
-"Kirkcaldy and Cowdenbeath", 2005
-"Dunfermline and West Fife", 2005
-"North East Fife", 1983
-"Dundee East", 1950
-"Dundee West", 1950
-"Angus", 1997
-"Gordon", 1983
-"West Aberdeenshire and Kincardine", 1997
-"Banff and Buchan", 1983
-"Aberdeen North", 1885
-"Aberdeen South", 1885
-"Argyll and Bute", 1983
-"Moray", 1983
-"Caithness, Sutherland and Easter Ross", 1997
-"Inverness, Nairn, Badenoch and Strathspey", 2005
-"Ross, Skye and Lochaber", 2005
-"Na h-Eileanan an Iar", 1918, , "Western Isles"
-"Orkney and Shetland", 1708
-"Aberavon", 1918
-"Alyn and Deeside", 1983
-"Blaenau Gwent", 1983
-"Brecon and Radnorshire", 1918
-"Bridgend", 1983
-"Caernarfon", 1536
-"Caerphilly", 1918
-"Cardiff Central", 1983
-"Cardiff North", 1950
-"Cardiff South and Penarth", 1983
-"Cardiff West", 1950
-"Carmarthen East and Dinefwr", 1997
-"Carmarthen West and South Pembrokeshire", 1997
-"Ceredigion", 1536, , "Cardiganshire"
-"Clwyd South", 1997
-"Clwyd West", 1997
-"Conwy", 1950
-"Cynon Valley", 1983
-"Delyn", 1983
-"Gower", 1885
-"Islwyn", 1983
-"Llanelli", 1918
-"Meirionnydd Nant Conwy", 1983
-"Merthyr Tydfil and Rhymney", 1983
-"Monmouth", 1918
-"Montgomeryshire", 1536
-"Neath", 1918
-"Newport East", 1983
-"Newport West", 1983
-"Ogmore", 1918
-"Pontypridd", 1918
-"Preseli Pembrokeshire", 1997
-"Rhondda", 1974
-"Swansea East", 1918
-"Swansea West", 1918
-"Torfaen", 1983
-"Vale of Clwyd", 1997
-"Vale of Glamorgan", 1983
-"Wrexham", 1918
-"Ynys Môn", 1545, , "Anglesey"
-
+Constituency Name,Created,Abolished,Alternate Name,Notes
+"Aberdeen Central",1997,2005
+"Ayr",1950,2005
+"Carrick,Cumnock and Doon Valley",1983,2005
+"Coatbridge and Chryston",1997,2005
+"Clydebank and Milngavie",1983,2005
+"Clydesdale",1983,2005
+"Cunninghame North",1983,2005
+"Cunninghame South",1983,2005
+"Dumbarton",1983,2005
+"Dumfriesshire",1708,2005
+"Dunfermline East",1983,2005
+"Dunfermline West",1983,2005
+"Eastwood",1983,2005
+"Edinburgh Central",1885,2005
+"Edinburgh East and Musselburgh",1997,2005
+"Edinburgh Pentlands",1950,2005
+"Falkirk East",1983,2005
+"Falkirk West",1983,2005
+"Fife Central",1974,2005
+"Galloway",1918,Galloway,1983
+"Galloway and Upper Nithsdale",1983,2005
+"Glasgow Anniesland",1997,2005
+"Glasgow Baillieston",1997,2005
+"Glasgow Cathcart",1918,2005
+"Glasgow Govan",1885,2005
+"Glasgow Kelvin",1997,2005
+"Glasgow Maryhill",1918,2005
+"Glasgow Pollok",1918,2005
+"Rutherglen",1918,1983
+"Glasgow Rutherglen",1983,2005
+"Glasgow Shettleston",1918,2005
+"Glasgow Springburn",1918,2005
+"Greenock",1832,1974
+"Greenock and Port Glasgow",1974,1997
+"Greenock and Inverclyde",1997,2005
+"Hamilton North and Bellshill",1997,2005
+"Hamilton South",1997,2005
+"Inverness East,Nairn and Lochaber",1983,2005
+"Kirkcaldy",1832,2005
+"Linlithgowshire",1708,1945
+"West Lothian",1945,1983
+"Linlithgow",1983,2005
+"Paisley North",1983,2005
+"Paisley South",1983,2005
+"Perth and East Perthshire",1708,1950
+"Perth and Kinross",1983,1997
+"Perth",1997,2005
+"Renfrewshire West",1997,2005
+"Ross,Skye and Inverness West",1997,2005
+"Roxburghshire",1708,1918
+"Roxburgh and Selkirk",1918,1955
+"Roxburgh,Selkirk and Peebles",1955,1983
+"Roxburgh and Berwickshire",1983,2005
+"East Angus",1983,1997
+"Boothferry",1983,1997
+"Bow and Poplar",1983,1997
+"Bridlington",1950,1997
+"Caithness and Sutherland",1918,1997
+"Carmarthen",1542,1997
+"Chelmsford",1885,1997
+"Chelsea",1868,1997
+"Chertsey and Walton",1885,1997
+"Cirencester and Tewkesbury",1918,1997
+"Clackmannan",1983,1997
+"Colchester North",1983,1997
+"Colchester South and Maldon",1983,1997
+"Coventry South East",1974,1997
+"Coventry South West",1974,1997
+"Croydon North East",1955,1997
+"Croydon North West",1955,1997
+"Dudley East",1974,1997
+"Dudley West",1974,1997
+"East Berkshire",1983,1997
+"East Lindsey",1983,1997
+"Fulham",1955,1997
+"Glasgow Garscadden",1974,1997
+"Glasgow Central",1885,1997
+"Glasgow Hillhead",1918,1997
+"Glasgow Provan",1955,1997
+"Gloucestershire West",1950,1997
+"Hamilton",1918,1997
+"Hendon North",1945,1997
+"Hendon South",1945,1997
+"Holland with Boston",1918,1997
+"Kincardine and Deeside",1983,1997
+"Langbaurgh",1983,1997
+"Littleborough and Saddleworth",1983,1997
+"Liverpool Broadgreen",1983,1997
+"Liverpool Mossley Hill",1983,1997
+"Mid Staffordshire",1983,1997
+"Monklands East",1983,1997
+"Monklands West",1983,1997
+"Motherwell North",1983,1997
+"Motherwell South",1983,1997
+"New Forest",1885,1918
+"New Forest and Christchurch",1918,1950
+"New Forest",1950,1997
+"Newham North East",1974,1997
+"Newham North West",1974,1997
+"Newham South",	1974,1997
+"Norwood",1885,1997
+"North Bedfordshire",1983,1997
+"North Hertfordshire",1983,1997
+"North West Clwyd",1983,1997
+"North West Surrey",1974,1997
+"Plymouth Drake",1918,1950
+"Plymouth Drake",1974,1997
+"Ravensbourne",1974,1997
+"Richmond and Barnes",1983,1997
+"Ross,Cromarty and Skye",1983,1997
+"Salford East",1950,1997
+"South East Staffordshire",1983,1997
+"Southend East",1950,1997
+"South Hams",1983,1997
+"South West Cambridgeshire",1983,1997
+"South West Clwyd",1983,1997
+"South Worcestershire",1950,1997
+"Swindon",1918,1997
+"Wallsend",1918,1997
+"Wanstead and Woodford",1974,1997
+"Warley East",1974,1997
+"Warley West",1974,1997
+"West Hertfordshire",1983,1997
+"Westminster North",1983,1997
+"Worthing",1945,1997
+"Milton Keynes",1983,1992
+"Aberdare",1918,1983
+"Aberdeenshire East",1950,1983
+"Aberdeenshire West",1950,1983
+"Abertillery",1918,1983
+"Accrington",1885,1983
+"Angus North and Mearns",1950,1983
+"Angus South",1950,1983
+"Argyllshire",1708,1950
+"Argyll",1950,1983
+"Armagh",1922,1983
+"Ayrshire Central",1950,1983
+"Ayrshire South",1868,1983
+"Banffshire",1708,1983
+"Barkston Ash",1885,1983
+"Barnsley",1885,1983
+"Barry",1950,1983
+"Battersea North",1918,1983
+"Battersea South",1918,1983
+"Bebington and Ellesmere Port",1974,1983
+"Bedford",1295,1983
+"Bedwellty",1918,1983
+"Beeston",1974,1983
+"Belper",1918,1983
+"Bermondsey",1885,1983
+"Berwick and East Lothian",1950,1983
+"Birmingham Stechford",1950,1983
+"Bodmin",1295,1983
+"Bolton East",1950,1983
+"Bothwell",1918,1983
+"Brigg and Scunthorpe",1974,1983
+"Brighouse and Spenborough",1950,1983
+"Bristol North East",1950,1983
+"Bristol South East",1950,1983
+"Bromsgrove and Redditch",1974,1983
+"Bury and Radcliffe",1950,1983
+"Bute and North Ayrshire",1918,1983
+"Cambridgeshire",1290,1885
+"Cambridgeshire",1918,1983
+"Cardiff North West",1974,1983
+"Cardiff South East",1950,1983
+"Carlton",1950,1983
+"Chester-le-Street",1885,1983
+"Christchurch and Lymington",1974,1983
+"Clackmannan and Eastern Stirlingshire",1885,1983
+"Cleveland and Whitby",1974,1983
+"Clitheroe",1559,1983
+"Coatbridge and Airdrie",1950,1983
+"Colchester",1295,1983
+"Consett",1918,1983
+"Dunbartonshire Central",1974,1983
+"Darwen",1885,1983
+"Dearne Valley",1950,1983
+"Denbigh",1542,1983
+"Doncaster",1885,1983
+"Dorking",1950,1983
+"Dover and Deal",1974,1983
+"Dunfermline",1918,1983
+"East Dunbartonshire",1950,1983
+"East Grinstead",1885,1983
+"East Hertfordshire",1955,1983
+"Ebbw Vale",1918,1983
+"Edinburgh North",1918,1983
+"Essex South East",1995,1945
+"Essex South East",1955,1983
+"Eton and Slough",1945,1983
+"Eye",1571,1983
+"Farnham",1918,1983
+"Farnworth",1885,1983
+"Fife East",1885,1983
+"Flintshire East",1950,1983
+"Flintshire West",1950,1983
+"Fylde North",1950,1983
+"Fylde South",1950,1983
+"Gateshead West",1950,1983
+"Glasgow Craigton",1955,1983
+"Glasgow Kelvingrove",1918,1983
+"Glasgow Queen's Park",1974,1983
+"Gloucestershire South",1950,1983
+"Goole",1950,1983
+"Gravesend",1868,1983
+"Hackney Central",1885,1950
+"Hackney Central",1955,1983
+"Haltemprice",1950,1983
+"Hammersmith North",1918,1983
+"Handsworth",1885,1983
+"Harrow Central",1950,1983
+"Hemel Hempstead",1918,1983
+"Hitchin",1885,1983
+"Holborn and St Pancras South",1950,1983
+"Horncastle",1885,1983
+"Horsham and Crawley",1974,1983
+"Howden",1955,1983
+"Huddersfield East",1950,1983
+"Huddersfield West",1950,1983
+"Hull Central",1885,1955,"Kingston-upon-Hull"
+"Hull Central",1974,1983,"Kingston-upon-Hull"
+"Huntingdonshire",1290,1885
+"Huntingdonshire",1918,1983
+"Huyton",1950,1983
+"Ilkeston",1885,1983
+"Ince",1885,1983
+"Isle of Ely",1918,1983
+"Islington Central",1974,1983
+"Kidderminster",1832,1983
+"Kilmarnock",1918,1983
+"Kinross and Western",1918,1983
+"Knutsford",1885,1983
+"Lambeth Central",1974,1983
+"Lanark",1708,1832
+"Lanark",1918,1983
+"Leeds South",1885,1983
+"Leeds South East",1918,1983
+"Leek",1885,1983
+"Lichfield and Tamworth",1950,1983
+"Liverpool Edge Hill",1918,1983
+"Liverpool Kirkdale",1885,1983
+"Liverpool Scotland Exchange",1974,1983
+"Liverpool Toxteth",1950,1983
+"Liverpool Wavertree",1918,1983
+"Louth (Lincolnshire)",1885,1983
+"Lowestoft",1885,1983
+"Luton East",1974,1983
+"Luton West",1974,1983
+"Maldon",1332,1983
+"Manchester Ardwick",1918,1983
+"Manchester Moss Side",1918,1983
+"Manchester Openshaw",1955,1983
+"Melton",1885,1983
+"Middleton and Prestwich",1918,1983
+"Mid Oxfordshire",1974,1983
+"Moray and Nairn",1918,1983
+"Morpeth",1553,1983
+"Motherwell",1918,1974
+"Motherwell and Wishaw",1974,1983
+"Nantwich",1955,1983
+"Nelson and Colne",1918,1983
+"Newcastle-upon-Tyne West",1918,1983
+"Newport (Monmouthshire)",1918,1983
+"Newton (Lancashire)",1885,1983
+"North Lanarkshire",1868,1885
+"North Lanarkshire",1918,1983
+"North Somerset",1995,1918
+"North Somerset",1950,1983
+"Northwich",1885,1983
+"Nottingham West",1885,1983
+"Oldham East",1950,1983
+"Ormskirk",1885,1983
+"Oswestry",1885,1983
+"Oxford",1295,1983
+"Paddington",1974,1983
+"Paisley",1832,1983
+"Penistone",1918,1983
+"Petersfield",1547,1983
+"Pontypool",1918,1983
+"Preston North",1950,1983
+"Preston South",1950,1983
+"Reading North",1950,1955
+"Reading North",1974,1983
+"Reading South",1950,1955
+"Reading South",1974,1983
+"Renfrewshire East",1885,1983
+"Ripon",1530,1983
+"Rochester and Chatham",1950,1983
+"Rugby",1885,1983
+"Runcorn",1950,1983
+"Ross and Cromarty",1832,1983
+"Rye",1955,1983
+"St Helens",1885,1983
+"St Marylebone",1918,1983
+"St Pancras North",1885,1983
+"Salford West",1885,1983
+"Sheffield Park",1918,1983
+"Sidcup",1974,1983
+"South Bedfordshire",1950,1983
+"South East Derbyshire",1950,1983
+"South Hertfordshire",1974,1983
+"South West Staffordshire",1974,1983
+"Sowerby",1885,1983
+"Stepney and Poplar",1974,1983
+"Stirling,Falkirk and Grangemouth",1974
+"Stockport North",1950,1983
+"Stockport South",1950,1983
+"Stockton",1950,1983
+"Stoke Newington and Hackney North",1950,1983
+"Stratford",1918,1983
+"Sudbury and Woodbridge",1950,1983
+"Thanet East",1974,1983
+"Thanet West",1974,1983
+"Thirsk and Malton",1885,1983
+"Thornaby",1974,1983
+"Totnes",1885,1983
+"Warrington",1832,1983
+"West Devon",1974,1983
+"West Dunbartonshire",1950,1983
+"Westhoughton",1885,1983
+"West Lothian",1945,1983
+"West Stirlingshire",1945,1983
+"Whitehaven",1832,1983
+"Widnes",1885,1983
+"Wirral",1885,1983
+"Wood Green",1918,1983
+"Woolwich East",1918,1983
+"Woolwich West",1918,1983
+"Arundel and Shoreham",1950,1974
+"Barons Court",1955,1974
+"Bexley",1945,1974
+"Billericay",1950,1974
+"Bilston",1918,1974
+"Birmingham All Saints",1955,1974
+"Birmingham Aston",1918,1974
+"Bradford East",1885,1974
+"Brierley Hill",1950,1974
+"Bristol Central",1918,1974
+"Brixton",1885,1974
+"Bromley",1918,1974
+"Chigwell",1955,1974
+"Clapham",1885,1974
+"Coventry East",1945,1974
+"Coventry North",1950,1974
+"Coventry South",1950,1974
+"Croydon South",1955,1974
+"Dudley",1832,1974
+"Ealing South",1950,1974
+"East Ham North",1918,1974
+"East Ham South",1918,1974
+"Enfield East",1950,1974
+"Enfield West",1950,1974
+"Epping",1885,1974
+"Fife West",1885,1974
+"Glasgow Bridgeton",1885,1974
+"Glasgow Gorbals",1918,1974
+"Glasgow Woodside",1950,1974
+"Heston and Isleworth",1945,1974
+"Hull North",1950,1974,"Kingston-upon-Hull North"
+"Islington East",1885,1974
+"Islington Southwest",1950,1974
+"Kensington North",1885,1974
+"Kensington South",1885,1974
+"King's Lynn",1298,1974
+"Leicester North East",1950,1974
+"Leicester North West",1950,1974
+"Leicester South East",1950,1974
+"Leicester South West",1950,1974
+"Lewisham North",1950,1974
+"Lewisham South",1950,1974
+"Luton",1885,1974
+"Manchester Cheetham",1950,1974
+"Manchester Exchange",1918,1974
+"Merton and Morden",1950,1974
+"Middlesbrough East",1918,1974
+"Middlesbrough West",1918,1974
+"Norfolk Central",1950,1974
+"Northampton",1295,1974
+"Nottingham Central",1918,1974
+"Nottingham South",1885,1974
+"Paddington North",1885,1974
+"Paddington South",1885,1974
+"Poplar",1885,1918
+"Poplar",1950,1974
+"Portsmouth Langstone",1950,1974
+"Portsmouth West",1950,1974
+"Reading",1295,1950
+"Reading",1955,1974
+"Rhondda East",1918,1974
+"Rhondda West",1918,1974
+"Rowley Regis and Tipton",1950,1974
+"Sedgefield",1918,1974
+"Smethwick",1918,1974
+"South Buckinghamshire",1950,1974
+"South Northamptionshire",1832,1918
+"South Northamptonshire",1950,1974
+"Southwark",1295,1885
+"Southwark",1950,1974
+"Tavistock",1330,1974
+"Torquay",1885,1974
+"Torrington",1950,1974
+"Walthamstow East",1918,1974
+"Walthamstow West",1918,1974
+"Wandsworth Central",1918,1974
+"Wednesbury",1868,1974
+"Wembley North",1945,1974
+"Wembley South",1945,1974
+"West Bromwich",1885,1974
+"West Ham North",1885,1918
+"West Ham North",1950,1974
+"West Ham South",1885,1918
+"West Ham South",1950,1974
+"Willesden East",1918,1974
+"Willesden West",1918,1974
+"Beverley",1983,1997
+"Beverley",1950,1955
+"Birmingham Erdington",1918,1955
+"Blackburn East",1950,1955
+"Blackburn West",1950,1955
+"Bradford Central",1885,1955
+"Broxtowe",1918,1955
+"Croydon East",1950,1955
+"Croydon North",1918,1955
+"Croydon West",1950,1955
+"Droylsden",1950,1955
+"Fulham East",1918,1955
+"Fulham West",1918,1955
+"King's Norton",1918,1955
+"Glasgow Camlachie",1885,1955
+"Glasgow Tradeston",1885,1955
+"Hackney South",1885,1955
+"Hammersmith South",1918,1955
+"Hull Central",1885,1955
+"Leeds Central",1885,1955
+"Leeds North",1885,1955
+"Manchester Clayton",1918,1955
+"Midlothian and Peebles",1950,1955
+"Mile End",1885,1955
+"Nottingham East",1885,1955
+"Nottingham North West",1950,1955
+"Reading North",1950,1955
+"Reading North",1974,1983
+"Reading South",1950,1955
+"Reading South",1974,1983
+"Sheffield Neepsend",1950,1955
+"Walsall",1832,1955
+"Aberdeen and Kincardine East",1918,1950
+"Aberdeen and Kincardine Central",1918,1950
+"Antrim",1801,1855
+"Antrim",1922,1950
+"Ayr District of Burghs",1708,1950
+"Balham and Tooting",1918,1950
+"Barnard Castle",1885,1950
+"Barnstaple",1295,1950
+"Bermondsey West",1918,1950
+"Berwickshire and Haddingtonshire",1918,1950
+"Berwickshire and East Lothian",1950,1974
+"Berwick and East Lothian",1974,1983
+"Bethnal Green North East",1885,1950
+"Bethnal Green South West",1885,1950
+"Bewdley",1605,1950
+"Birkenhead East",1918,1950
+"Birkenhead West",1918,1950
+"Birmingham Acock's Green",1945,1950
+"Birmingham Deritend",1918,1950
+"Birmingham Duddeston",1918,1950
+"Birmingham West",1885,1950
+"Blackburn",1832,1950
+"Bolton",1832,1950
+"Bournemouth",1918,1950
+"Bow and Bromley",1885,1950
+"Brighton",1832,1950
+"Bristol East",1885,1950
+"Bristol North",1885,1950
+"Bucklow",1945,1950
+"Buckrose",1885,1950
+"Burslem",1918,1950
+"Caernarvonshire",1542,1885
+"Caernarvonshire",1918,1950
+"Camberwell North",1885,1950
+"Camberwell North West",1918,1950
+"Cambridge University",1604,1950
+"Cardiff Central",1918,1950
+"Cardiff East",1918,1950
+"Cardiff South",1918,1950
+"Clay Cross",1918,1950
+"Combined English Universities",1918,1950
+"Combined Scottish Universities",1918,1950
+"Coventry West",1945,1950
+"Croydon South",1918,1950
+"Daventry",1918,1950
+"Derby",1295,1950
+"Down",1801,1885
+"Down",1922,1950
+"Dumbarton Burghs",1918,1950
+"Dunbartonshire",1708,1950
+"Dundee",1832,1950
+"Ealing East",1945,1950
+"Ealing West",1945,1950
+"East Dorset",1885,1950
+"East Toxteth",1885,1950
+"Eddisbury",1885,1950
+"Elland",1885,1950
+"Enfield",1885,1950
+"Essex South East",1885,1950
+"Essex South East",1955,1983
+"Evesham",1604,1950
+"Fermanagh and Tyrone",1922,1950
+"Flintshire",1542,1950
+"Forest of Dean",1885,1950
+"Forfarshire",1708,1950
+"Frome",1832,1950
+"Fylde",1918,1950
+"Gateshead",1832,1950
+"Glasgow Partick",1885,1950
+"Glasgow St Rollox",1885,1950
+"Hackney Central",1885,1950
+"Hackney Central",1955,1983
+"Hackney North",1885,1950
+"Hanley",1885,1950
+"Holderness",1885,1950
+"Howdenshire",1885,1950
+"Huddersfield",1832,1950
+"Hull North West",1918,1950,"Kingston-upon-Hull North-West"
+"Hull South West",1918,1950,"Kingston-upon-Hull South-West"
+"Islington South",1885,1950
+"Islington West",1885,1950
+"Kennington",1885,1950
+"Kincardine and Aberdeenshire West",1918,1950
+"Kingswinford",1885,1950
+"Lambeth North",1885,1950
+"Leicester East",1918,1950
+"Leicester South",1918,1950
+"Leicester West",1918,1950
+"Lewisham East",1918,1950
+"Leyton East",1918,1950
+"Leyton West",1918,1950
+"Limehouse",1885,1950
+"Liverpool Everton",1885,1950
+"Liverpool Fairfield",1918,1950
+"Liverpool West Toxteth",1885,1950
+"Llandaff and Barry",1918,1950
+"London City (of)",1298,1950
+"London University",1868,1950
+"Lonsdale",1918,1950
+"Manchester Hulme",1918,1950
+"Manchester Platting",1918,1950
+"Manchester Rusholme",1918,1950
+"Montrose District of Burghs",1832,1950
+"Norfolk East",1832,1868
+"Norfolk East",1885,1950
+"North Cumberland",1918,1950
+"Norwich",1298,1950
+"Oldham",1832,1950
+"Oxford University",1604,1950
+"Penrith and Cockermouth",1918,1950
+"Penryn and Falmouth",1832,1950
+"Plaistow",1918,1950
+"Plymouth Drake",1918,1950
+"Plymouth Drake",1974,1997
+"Poplar South",1918,1950
+"Portsmouth Central",1918,1950
+"Portsmouth North",1918,1950
+"Preston",1529,1950
+"Queen's University Belfast",1918,1950
+"Reading",1295,1950
+"Rotherhithe",1885,1950
+"Rothwell",1918,1950
+"Royton",1918,1950
+"Rye",1366,1950
+"Rye",1955,1983
+"St Pancras South East",1918,1950
+"St Pancras South West",1918,1950
+"Salford North",1885,1950
+"Salford South",1885,1950
+"Seaham",1918,1950
+"Sheffield Central",1885,1950
+"Sheffield Ecclesall",1885,1950
+"Silvertown",1918,1950
+"South Derbyshire",1832,1950
+"Southend",1918,1950
+"Southampton",1295,1950
+"South Molton",1885,1950
+"Southwark Central",1918,1950
+"Southwark North",1918,1950
+"Southwark South East",1918,1950
+"Spennymoor",1918,1950
+"Spen Valley",1885,1950
+"Stockport",1832,1950
+"Stoke",1918,1950
+"Stourbridge",1918,1950
+"Sunderland",1832,1950
+"Thornbury",1885,1950
+"Tottenham North",1918,1950
+"Tottenham South",1918,1950
+"University of Wales",1918,1950
+"Upton",1918,1950
+"Wansbeck",1885,1950
+"Waterloo",1918,1950
+"Wentworth",1918,1950
+"Westminster Abbey",1918,1950
+"Westminster,St George's",1918,1950
+"Whitechapel and St George's",1918,1950
+"Wolverhampton East",1885,1950
+"Wolverhampton West",1885,1950
+"Blackpool",1885,1945
+"Coventry",1470,1945
+"Ealing",1885,1945
+"Harrow",1885,1945
+"Hendon",1918,1945
+"Ilford",1918,1945
+"Tamworth",1563,1945
+"Antrim East",1885,1922
+"Antrim Mid",1885,1922
+"Antrim North",1885,1922
+"Antrim South",1885,1922
+"Armagh Mid",1885,1922
+"Armagh North",1885,1922
+"Armagh South",1885,1922
+"Belfast Cromac",1918,1922
+"Belfast Duncairn",1918,1922
+"Belfast Falls",1918,1922
+"Belfast Ormeau",1918,1922
+"Belfast Pottinger",1918,1922
+"Belfast St Anne's",1918,1922
+"Belfast Shankill",1918,1922
+"Belfast Victoria",1918,1922
+"Belfast Woodvale",1918,1922
+"Cavan East",1885,1922
+"Cavan West",1885,1922
+"Clare East",1885,1922
+"Clare West",1885,1922
+"Connemara",1885,1922
+"Cork City",1801,1922
+"County Carlow",1801,1922
+"County Cork East",1885,1922
+"County Cork Mid",1885,1922
+"County Cork North",1885,1922
+"County Cork North East",1885,1922
+"County Cork South",1885,1922
+"County Cork South East",1885,1922
+"County Cork West",1885,1922
+"County Dublin North",1885,1922
+"County Dublin South",1885,1922
+"County Galway East",1885,1922
+"County Galway North",1885,1922
+"County Galway South",1885,1922
+"County Kilkenny North",1885,1922
+"County Kilkenny South",1885,1922
+"County Limerick East",1885,1922
+"County Limerick West",1885,1922
+"County Londonderry North",1885,1922
+"County Londonderry South",1885,1922
+"County Sligo North",1885,1922
+"County Sligo South",1885,1922
+"County Waterford",1918,1922
+"County Waterford",1801,1885
+"County Wexford North",1885,1922
+"County Wexford South",1885,1922
+"County Louth",1918,1922
+"Donegal East",1885,1922
+"Donegal North",1885,1922
+"Donegal South",1885,1922
+"Donegal West",1885,1922
+"Down East",1885,1922
+"Down Mid",1918,1922
+"Down North",1885,1922
+"Down South",1885,1922
+"Down West",1885,1922
+"Dublin Clontarf",1918,1922
+"Dublin College Green",1885,1922
+"Dublin Harbour",1885,1922
+"Dublin St James's",1918,1922
+"Dublin St Michan's",1918,1922
+"Dublin St Patrick's",1885,1922
+"Dublin St Stephen's Green",1885,1922
+"Dublin University",1801,1922
+"Fermanagh North",1885,1922
+"Fermanagh South",1885,1922
+"Kerry East",1885,1922
+"Kerry North",1885,1922
+"Kerry South",1885,1922
+"Kerry West",1885,1922
+"Kildare North",1885,1922
+"Kildare South",1885,1922
+"King's County",1918,1922
+"King's County",1801,1885
+"Leitrim",1918,1922
+"Leitrim",1801,1885
+"Limerick City",1801,1922
+"Londonderry City",1801,1922
+"Longford",1918,1922
+"Longford",1801,1885
+"Mayo East",1885,1922
+"Mayo North",1885,1922
+"Mayo South",1885,1922
+"Mayo West",1885,1922
+"Meath North",1885,1922
+"Meath South",1885,1922
+"Monaghan North",1885,1922
+"Monaghan South",1885,1922
+"National University of Ireland",1918,1922
+"Pembroke (Co Dublin)",1918,1922
+"Queen's County",1918,1922
+"Queen's County",1801,1885
+"Rathmines",1918,1922
+"Roscommon North",1885,1922
+"Roscommon South",1885,1922
+"Tipperary East",1885,1922
+"Tipperary Mid",1885,1922
+"Tipperary South",1885,1922
+"Tyrone North-East",1918,1922
+"Tyrone North-West",1918,1922
+"Tyrone South",1885,1922
+"Waterford City",1801,1922
+"Westmeath",1918,1922
+"Westmeath",1801,1885
+"Wicklow East",1885,1922
+"Wicklow West",1885,1922
+"Aberdeenshire Eastern",1868,1918
+"Aberdeenshire Western",1868,1918
+"Andover",1586,1918
+"Appleby",1295,1918
+"Arfon",1885,1918
+"Ashburton",1885,1918
+"Ashburton",1640,1868
+"Aston Manor",1885,1918
+"Ayrshire North",1868,1918
+"Battersea",1885,1918
+"Belfast East",1885,1918
+"Belfast North",1885,1918
+"Belfast South",1885,1918
+"Belfast West",1885,1918
+"Bermondsey",1885,1918
+"Biggleswade",1885,1918
+"Birkenhead",1861,1918
+"Birmingham Bordesley",1885,1918
+"Birmingham Central",1885,1918
+"Birmingham East",1885,1918
+"Birmingham Moseley",1885,1918
+"Birmingham North",1885,1918
+"Birmingham South",1885,1918
+"Birr",1885,1918
+"Blackfriars and Hutchesontown",1885,1918
+"Boston",1547,1918
+"Bradford West",1885,1918
+"Buteshire",1708,1918
+"Caithness",1708,1918
+"Cardiff",1542,1918
+"Chesterton",1885,1918
+"Christchurch",1571,1918
+"Clackmannan and Kinross",1832,1918
+"Cockermouth",1640,1918
+"County Louth North",1885,1918
+"County Louth South",1885,1918
+"County Waterford East",1885,1918
+"County Waterford West",1885,1918
+"Cricklade",1295,1918
+"Croydon",1885,1918
+"Droitwich",1554,1918
+"Dumfries District of Burghs",1708,1918
+"East Carmarthenshire",1885,1918
+"East Denbighshire",1885,1918
+"East Glamorganshire",1885,1918
+"East Northamptonshire",1885,1918
+"East Somerset",1832,1918
+"East Worcestershire",1832,1918
+"Edinburgh and St Andrews Universities",1868,1918
+"Egremont",1885,1918
+"Eifion",1885,1918
+"Elgin Burghs",1708,1918
+"Elginshire and Nairnshire",1832,1918
+"Eskdale",1885,1918
+"Falkirk District of Burghs",1708,1918
+"Finsbury Central",1885,1918
+"Finsbury East",1885,1918
+"Flint",1542,1918
+"Fulham",1885,1918
+"Galway Borough",1801,1918
+"Glasgow and Aberdeen Universities",1868,1918
+"Glasgow College",1885,1918
+"Haddingtonshire",1708,1918
+"Haggerston",1885,1918
+"Hallamshire",1885,1918
+"Hammersmith",1885,1918
+"Hammersmith",1983,1997
+"Hawick",1868,1918
+"Holmfirth",1885,1918
+"Hoxton",1885,1918
+"Hull West",1885,1918,"Kingston-upon-Hull West"
+"Hull West",1955,1997,"Kingston-upon-Hull West"
+"Huntingdon",1295,1918
+"Hyde",1885,1918
+"Inverness-shire",1708,1918
+"Kendal",1832,1918
+"Kilkenny City",1801,1918
+"Kilmarnock District of Burghs",1832,1918
+"Kincardineshire",1708,1918
+"Kirkcudbright",1708,1918
+"Launceston",1295,1918
+"Leeds East",1885,1918
+"Leicester",1295,1918
+"Leith District of Burghs",1832,1918
+"Leix",1885,1918
+"Lewisham",1885,1918
+"Liverpool Abercromby",1885,1918
+"Longford North",1885,1918
+"Longford South",1885,1918
+"Manchester East",1885,1918
+"Manchester North",1885,1918
+"Manchester North East",1885,1918
+"Manchester North West",1885,1918
+"Manchester South",1885,1918
+"Manchester South West",1885,1918
+"Marlborough",1295,1918
+"Marylebone East",1885,1918
+"Marylebone West",1885,1918
+"Medway",1885,1918
+"Merthyr Tydfil",1832,1918
+"Merthyr Tydfil",1950,1983
+"Mid County Durham",1885,1918
+"Middlesbrough",1868,1974
+"Midlothian",1708,1918,"Edinburghshire"
+"Mid Derbyshire",1885,1918
+"Mid Glamorganshire",1885,1918
+"Mid Lanarkshire",1885,1918
+"Mid Norfolk",1885,1918
+"Mid Northamptonshire",1885,1918
+"Monmouthshire North",1885,1918
+"Monmouthshire South",1885,1918
+"Monmouthshire West",1885,1918
+"Montgomery",1542,1918
+"Morley",1885,1918
+"Mossley",1918,1950
+"Newcastle-upon-Tyne",1295,1918
+"Newington West",1885,1918
+"Newmarket",1885,1918
+"Newport (Shropshire)",1885,1918
+"Newry",1801,1918
+"North East Lanarkshire",1885,1918
+"North Leitrim",1885,1918
+"North Lonsdale",1885,1918
+"North Northamptonshire",1832,1918
+"North Somerset",1885,1918
+"North West Durham",1885,1918
+"North West Lanarkshire",1885,1918
+"North Westmeath",1885,1918
+"North West Norfolk",1885,1918
+"North West Staffordshire",1885,1918
+"North Worcestershire",1885,1918
+"Osgoldcross",1885,1918
+"Ossory",1885,1918
+"Pembroke and Haverfordwest",1885,1918
+"Perthshire East",1885,1918
+"Perthshire West",1885,1918
+"Plymouth",1442,1918
+"Poplar",1885,1918
+"Poplar",1950,1974
+"Portsmouth",1295,1918
+"Prestwich",1885,1918
+"Radcliffe-cum-Farnworth",1885,1918
+"Radnorshire",1542,1918
+"Ramsay",1885,1918
+"Rhondda",1885,1918
+"Rochester",1295,1918
+"Ross (Herefordshire)",1885,1918
+"St Andrews",1832,1918
+"St Augustine's",1885,1918
+"St Austell",1885,1918
+"St George's (Tower Hamlets)",1885,1918
+"St Pancras East",1885,1918
+"St Pancras South",1885,1918
+"St Pancras West",1885,1918
+"Sleaford",1885,1918
+"South East County Durham",1885,1918
+"South Glamorganshire",1885,1918
+"South Lanarkshire",1868,1918
+"South Leitrim",1885,1918
+"South Northamptonshire",1832,1918
+"South Northamptonshire",1950,1974
+"South Somerset",1885,1918
+"Southwark West",1885,1918
+"South Westmeath",1885,1918
+"Stalybridge",1868,1918
+"Stamford",1467,1918
+"Stepney",1885,1918
+"Stepney",1950,1974
+"Stirlingshire",1708,1918
+"Stoke-upon-Trent",1832,1918
+"Stowmarket",1885,1918
+"Strand",1885,1918
+"Stratford-on-Avon",1885,1918
+"Sutherland",1708,1918
+"Caithness and Sutherland",1918,1997
+"Swansea District",1885,1918
+"Swansea Town",1885,1918
+"Tewkesbury",1610,1918
+"Tottenham",1885,1918
+"Truro",1295,1918
+"Truro",1950,1997
+"Tullamore",1885,1918
+"Tyneside",1885,1918
+"Tyrone East",1885,1918
+"Tyrone Mid",1885,1918
+"Tyrone North",1885,1918
+"Walthamstow	1885",1918
+"Walworth",1885,1918
+"Wandsworth",1885,1918
+"Wellington (Shropshire)",1885,1918
+"Wellington (Somerset)",1885,1918
+"West Carmarthenshire",1885,1918
+"West Denbighshire",1885,1918
+"West Ham North",1885,1918
+"West Ham North",1950,1974
+"West Ham South",1885,1918
+"West Ham South",1950,1974
+"Westminster",1545,1918
+"West Staffordshire",1868,1918
+"Whitby",1832,1918
+"Wick District of Burghs",1708,1918,"Northern Burghs"
+"Wigtownshire",1708,1918
+"Wilton",1295,1918
+"Wisbech",1885,1918
+"Wokingham",1885,1918
+"Wolverhampton South",1885,1918
+"Woodstock",1571,1918
+"Woolwich",1885,1918
+"Woolwich",1983,1997
+"Aberdeen",1832,1885
+"Antrim",1801,1885
+"Antrim",1922,1950
+"City of Armagh",1801,1885
+"County Armagh",1801,1885
+"County Armagh",1922,1983
+"Athlon",1801,1885
+"Bandon",1801,1885
+"Beaumaris",1553,1885
+"Bedfordshire",1290,1885
+"Belfast",1801,1885
+"Berkshire",1290,1885
+"Birmingham",1832,1885
+"Bradford (Yorkshire)",1832,1885
+"Brecon",1542,1885
+"Bridgnorth",1295,1885
+"Bridport",1295,1885
+"Bristol",1295,1885
+"Buckinghamshire",1290,1885
+"Caernarvonshire",1542,1885
+"Caernarvonshire",1918,1950
+"Calne",1295,1885
+"Cambridgeshire",1290,1885
+"Cambridgeshire",1918,1983
+"Cardigan",1542,1885
+"Cardigan",1974,1883
+"Borough of Carlow",1801,1885
+"Carmarthenshire",1542,1885
+"Carrickfergus",1801,1885
+"Cavan",1801,1885
+"East Cheshire",1868,1885
+"Mid Cheshire",1868,1885
+"West Cheshire",1868,1885
+"Clare",1801,1885
+"Clonmel",1801,1885
+"Coleraine",1801,1885
+"County Cork",1801,1885
+"East Cornwall",1832,1885
+"West Cornwall",1832,1885
+"East Cumberland",1832,1885
+"West Cumberland",1832,1885
+"Denbighshire",1542,1885
+"East Derbyshire",1868,1885
+"North Derbyshire",1832,1885
+"East Devon",1868,1885
+"North Devon",1832,1885
+"South Devon",1832,1885
+"Donegal",1801,1885
+"Dorchester",1295,1885
+"Dorset",1290,1885
+"Down",1801,1885
+"Down",1922,1950
+"Downpatrick",1801,1885
+"Drogheda",1801,1885
+"City of Dublin",1801,1885
+"County Dublin",1801,1885
+"Dundalk",1801,1885
+"Dungannon",1801,1885
+"Dungarvan",1801,1885
+"North Durham",1832,1885
+"South Durham",1832,1885
+"East Retford",1571,1885
+"East Retford",1316,1327
+"East Riding of Yorkshire",1832,1885
+"Edinburgh",1708,1885
+"Ennis",1801,1885
+"Enniskillen",1801,1885
+"East Essex",1868,1885
+"South Essex",1832,1885
+"West Essex",1868,1885
+"Fermanagh",1801,1885
+"Fife",1708,1885
+"Finsbury",1832,1885
+"Finsbury",1918,1950
+"County Galway",1801,1885
+"Glamorganshire",1542,1885
+"Glasgow",1832,1885
+"East Gloucestershire",1832,1885
+"West Gloucestershire",1832,1885
+"West Gloucestershire",1950,1997
+"Great Marlow",1625,1885
+"Great Marlow",1301,1307
+"Hackney",1868,1885
+"Haddington",1708,1885
+"North Hampshire",1832,1885
+"South Hampshire",1832,1885
+"Haverfordwest",1545,1885
+"Helston",1298,1885
+"Herefordshire",1290,1885
+"Hertfordshire",1290,1885
+"Huntingdonshire",1290,1885
+"Huntingdonshire",1918,1983
+"East Kent",1832,1885
+"Mid Kent",1868,1885
+"Mid Kent",1983,1997
+"West Kent",1832,1885
+"Kerry",1801,1885
+"Kildare",1801,1885
+"County Kilkenny",1801,1885
+"King's County",1801,1885
+"King's County",1918,1922
+"Kingston-upon-Hull",1334,1885
+"Kingston-upon-Hull",1305,1327
+"Kinsale",1801,1885
+"Knaresborough",1553,1885
+"Lambeth",1832,1885
+"North Lanarkshire",1868,1885
+"North Lanarkshire",1918,1983
+"North Lancashire",1832,1885
+"North East Lancashire",1868,1885
+"South East Lancashire",1868,1885
+"South West Lancashire",1868,1885
+"Leeds",1832,1885
+"North Leicestershire",1832,1885
+"South Leicestershire",1832,1885
+"Leitrim",1801,1885
+"Leitrim",1918,1922
+"Limerick (County)",1801,1885
+"Mid Lincolnshire",1868,1885
+"North Lincolnshire",1868,1885
+"South Lincolnshire",1868,1885
+"Lisburn",1801,1885
+"Liskeard",1295,1885
+"Liverpool",1545,1885
+"Liverpool",1295,1442
+"Londonderry (County)",1801,1885
+"Londonderry (County)",1922,1983
+"Longford",1801,1885
+"Longford",1918,1922
+"Louth (County)",1801,1885
+"Louth (County)",1918,1922
+"Lymington",1584,1885
+"Mallow",1801,1885
+"Malmesbury",1295,1885
+"Malton",1641,1885
+"Manchester",1832,1885
+"Marlborough",1295,1885
+"Marylebone",1832,1885
+"Mayo",1801,1885
+"Meath",1801,1885
+"Middlesex",1290,1885
+"Midhurst",1311,1885
+"Monaghan",1801,1885
+"Monmouthshire",1542,1885
+"Much Wenlock",1472,1885
+"Newport (Isle of Wight)",1584,1885
+"New Ross",1801,1885
+"New Shoreham",1295,1885
+"Shoreham",1994,1997
+"West Norfolk",1832,1885
+"Northallerton",1641,1885
+"North Riding of Yorkshire",1832,1885
+"North Northumberland",1832,1885
+"South Northumberland",1832,1885
+"Nottingham",1295,1885
+"North Nottinghamshire",1832,1885
+"South Nottinghamshire",1832,1885
+"Oxfordshire",1290,1885
+"Pembroke (Pembrokeshire)",1542,1885
+"Pembroke (Pembrokeshire)",1974,1983
+"Perthshire",1708,1885
+"Poole",1453,1885
+"Poole",1362,1377
+"Portarlington",1801,1885
+"Queen's County",1801,1885
+"Queen's County",1918,1922
+"Radnor",1542,1885,"New Radnor"
+"Renfrewshire",1708,1885
+"Roscommon",1801,1885
+"Salford",1832,1885
+"Sandwich",1366,1885
+"Shaftesbury",1295,1885
+"Sheffield",1832,1885
+"North Shropshire",1832,1885
+"South Shropshire",1832,1885
+"County Sligo",1801,1885
+"Mid Somerset",1868,1885
+"West Somerset",1832,1885
+"Southwark",1295,1885
+"Southwark",1983,1997
+"East Staffordshire",1868,1885
+"North Staffordshire",1832,1885
+"East Suffolk",1832,1885
+"West Suffolk",1832,1885
+"East Surrey",1832,1885
+"Mid Surrey",1868,1885
+"West Surrey",1832,1885
+"East Sussex",1832,1885
+"West Sussex",1832,1885
+"Swansea",1832,1885
+"Thirsk",1547,1885
+"Tipperary",1801,1885
+"Tower Hamlets",1832,1885
+"Tralee",1801,1885
+"Tynemouth and North Shields",1832,1885
+"Tyrone",1801,1885
+"Wallingford",1295,1885
+"Wareham",1302,1885
+"Warwick",1295,1885
+"North Warwickshire",1832,1885
+"South Warwickshire",1832,1885
+"County Waterford",1801,1885
+"County Waterford",1918,1922
+"Westmeath",1801,1885
+"Westmeath",1918,1922
+"Westmorland",1290,1885
+"Westmorland",1918,1983
+"West Riding of Yorkshire East",1865,1885
+"West Riding of Yorkshire North",1865,1885
+"West Riding of Yorkshire South",1865,1885
+"Borough of Wexford",1801,1885
+"County Wexford",1801,1885
+"Weymouth and Melcombe Regis",1572,1885
+"Wicklow",1801,1885
+"Wigtown",1708,1885
+"North Wiltshire",1832,1885
+"South Wiltshire",1832,1885
+"Wolverhampton",1832,1885
+"Worcestershire West",1832,1885
+"Youghal",1801,1885
+"Beverley",1295,1305
+"Beverley",1950,1955
+"Beverley",1983,1997
+"Beverley",1563,1870
+"Bridgwater",1295,1870
+"Cashel",1801,1870
+"Sligo (Borough)",1801,1870
+"Aberdeenshire",1708,1868
+"Arundel",1295,1868
+"Arundel",1974,1997
+"Ashburton",1640,1868
+"Ashburton",1885,1918
+"Ayrshire",1708,1868	
+"North Ayrshire",1868,1918
+"South Ayrshire",1868,1983
+"North Cheshire",1832,1868
+"South Cheshire",1832,1868
+"Dartmouth",1351,1868
+"North Essex",1832,1868
+"Great Yarmouth",1298,1868,"Yarmouth (Norfolk)"
+"Honiton",1640,1868
+"Honiton",1301,1307
+"South Lancashire",1832,1868
+"Lancaster",1523,1868
+"Lancaster",1295,1376
+"Lancaster",1885,1997
+"Lanarkshire",1708,1868
+"Lyme Regis",1295,1868
+"East Norfolk",1832,1868
+"Peeblesshire",1708,1868
+"Reigate",1295,1868
+"Selkirkshire",1708,1868
+"South Staffordshire",1832,1868
+"Thetford",1529,1868
+"Totnes",1295,1868
+"Totnes",1885,1983
+"Wells",1295,1868
+"West Riding of Yorkshire",1832,1865
+"St Albans",1553,1852
+"St Albans",1311,1326
+"Sudbury",1559,1844
+"Sudbury",1885,1950
+"Aberdeen Burghs",1708,1832
+"Aldborough",1558,1832
+"Aldeburgh",1571,1832
+"Amersham",1625,1832
+"Amersham",1300,1307
+"Anstruther Easter Burghs",1708,1832
+"Appleby",1295,1832
+"Bere Alston",1584,1832
+"Bishop's Castle",1584,1832
+"Bletchingley",1295,1832
+"Boroughbridge",1553,1832
+"Bossiney",1547,1832
+"Brackley",1547,1832
+"Bramber",1467,1832
+"Bramber",1295,1441
+"Buteshire or Caithness",1708,1832
+"Buteshire",1832,1918
+"Caithness",1832,1918,,"Were paired as alternating constituencies until 1832"
+"Callington",1584,1832
+"Camelford",1547,1832
+"Castle Rising",1558,1832
+"Cheshire",1545,1832
+"Corfe Castle",1572,1832
+"Cornwall",1290,1832
+"Cromartyshire or Nairnshire",1708,1832,,"Were paired as alternating constituencies until 1832"
+"Ross and Cromarty",1832,1983
+"Elginshire and Nairnshire",1832,1918
+"Cumberland",1290,1832
+"Derbyshire",1290,1832
+"Devon",1290,1832
+"Downton",1467,1832
+"Downton",1295,1441
+"Dunwich",1298,1832
+"County Durham",1675,1832
+"Dysart Burghs",1708,1832
+"East Grinstead",1307,1832
+"East Looe",1571,1832
+"Elginshire",1708,1832
+"Essex",1290,1832
+"Fowey",1571,1832
+"Gatton",1450,1832
+"Glasgow Burghs",1708,1832,"Clyde Burghs"
+"Gloucestershire",1290,1832
+"Great Bedwyn",1295,1832
+"Hampshire",1290,1832
+"Haslemere",1584,1832
+"Hedon",1547,1832
+"Heytesbury",1449,1832
+"Higham Ferrers",1558,1832
+"Hindon",1449,1832
+"Ilchester",1621,1832
+"Kent",1290,1832
+"Lanark Burghs",1708,1832,"Linlithgow Burghs"
+"Lancashire",1290,1832
+"Leicestershire",1290,1832
+"Lincolnshire",1290,1832
+"Lostwithiel",1305,1832
+"Ludgershall",1295,1832
+"Milborne Port",1628,1832
+"Milborned Port",1298,1307
+"Minehead",1563,1832
+"Mitchell",1547,1832,"St Michael's"
+"New Romney",1371,1832
+"Newport (Cornwall)",1529,1832
+"Newton (Lancashire)",1559,1832
+"Newtown (Isle of Wight)",1584,1832
+"Norfolk",1290,1832
+"Northamptonshire",1290,1832
+"Northumberland",1290,1832
+"Nottinghamshire",1290,1832
+"Okehampton",1640,1832
+"Okehampton",1301,1307
+"Old Sarum",1295,1832
+"Orford",1512,1832
+"Orford",1298,1307
+"Plympton Erle",1295,1832
+"Queenborough",1571,1832
+"Ross-shire",1708,1832
+"St Germans",1563,1832
+"St Mawes",1563,1832
+"Saltash",1547,1832
+"Seaford",1641,1832
+"Seaford",1298,1307
+"Shropshire",1290,1832
+"Somerset",1290,1832
+"Staffordshire",1290,1832
+"Steyning",1467,1832
+"Steyning",1298,1307
+"Steyning",1327,1442
+"Stockbridge",1563,1832
+"Suffolk",1290,1832
+"Surrey",1290,1832
+"Sussex",1290,1832
+"Tain Burghs",1708,1832
+"Tregony",1559,1832
+"Warwickshire",1290,1832
+"Wendover",1625,1832
+"Wendover",1301,1307
+"Weobley",1628,1832
+"West Looe",1547,1832
+"Whitchurch",1584,1832
+"Wiltshire",1290,1832
+"Winchelsea",1366,1832
+"Wootton Bassett",1447,1832
+"Worcestershire",1290,1832
+"Yarmouth (Isle of Wight)",1584,1832
+"Yorkshire",1290,1832
+"Grampound",1547,1821
+"Melcombe Regis",1319,1572
+"Weymouth",1348,1572
+"Calais",1372,1558
+"Newborough",1542,1553
+"Tournai",1513,1519
+"Grantham",1467,1472
+"Grantham",1484,1997
+"Derby",1295,1467
+"Derby",1472,1950
+"Great Grimsby",1295,1467,"Grimsby"
+"Southampton",1295,1467
+"Southampton",1472,1950
+"Winchester",1295,1467
+"Amber Valley",1983
+"Bolsover",1950
+"Chesterfield",1885
+"Derby North",1950
+"Derby South",1950
+"Erewash",1983
+"High Peak",1885
+"North East Derbyshire",1885
+"South Derbyshire",1983
+"West Derbyshire",1885
+"Blaby",1974
+"Bosworth",1885
+"Charnwood",1997
+"Harborough",1885
+"Leicester East",1974
+"Leicester South",1974
+"Leicester West",1974
+"Loughborough",1885
+"North West Leicestershire",1983
+"Rutland and Melton",1983
+"Boston and Skegness",1997
+"Gainsborough",1885
+"Grantham and Stamford",1997
+"Lincoln",1265
+"Louth and Horncastle",1997
+"Sleaford and North Hykeham",1997
+"South Holland and The Deepings",1997
+"Corby",1983
+"Daventry",1974
+"Kettering",1918
+"Northampton North",1974
+"Northampton South",1974
+"Wellingborough",1918
+"Ashfield",1955
+"Bassetlaw",1885
+"Broxtowe",1983
+"Gedling",1983
+"Mansfield",1885
+"Newark",1673
+"Nottingham East",1974
+"Nottingham North",1955
+"Nottingham South",1983
+"Rushcliffe",1885
+"Sherwood",1983
+"Bedford",1997
+"Luton North",1983
+"Luton South",1983
+"Mid Bedfordshire",1918
+"North East Bedfordshire",1997
+"South West Bedfordshire",1983
+"Cambridge",1295
+"Huntingdon",1983
+"North East Cambridgeshire",1983
+"North West Cambridgeshire",1997
+"Peterborough",1541
+"South Cambridgeshire",1997
+"South East Cambridgeshire",1983
+"Basildon",1974
+"Billericay",1983
+"Braintree",1974
+"Brentwood and Ongar",1974
+"Castle Point",1983
+"Colchester",1997
+"Epping Forest",1974
+"Harlow",1974
+"Harwich",1707
+"Maldon and East Chelmsford",1997
+"North Essex",1997
+"Rayleigh",1997
+"Rochford and Southend East",1997
+"Saffron Walden",1885
+"Southend West",1950
+"Thurrock",1945
+"West Chelmsford",1997
+"Broxbourne",1983
+"Hemel Hempstead",1997
+"Hertford and Stortford",1983
+"Hertsmere",1983
+"Hitchin and Harpenden",1997
+"North East Hertfordshire",1997
+"St Albans",1885
+"South West Hertfordshire",1950
+"Stevenage",1983
+"Watford",1885
+"Welwyn Hatfield",1974
+"Great Yarmouth",1885
+"Mid Norfolk",1983
+"North Norfolk",1868
+"North West Norfolk",1974
+"Norwich North",1950
+"Norwich South",1950
+"South Norfolk",1868
+"South West Norfolk",1885
+"Bury St Edmunds",1641
+"Central Suffolk and North Ipswich",1997
+"Ipswich",1295
+"South Suffolk",1983
+"Suffolk Coastal",1983
+"Waveney",1983
+"West Suffolk",1997
+"Barking",1945
+"Bethnal Green and Bow",1997
+"Chingford and Woodford Green",1997
+"Dagenham",1945
+"East Ham",1997
+"Edmonton",1918
+"Enfield North",1974
+"Enfield Southgate",1983
+"Hackney North and Stoke Newington",1950
+"Hackney South and Shoreditch",1974
+"Hornchurch",1945
+"Hornsey and Wood Green",1983
+"Ilford North",1945
+"Ilford South",1945
+"Islington North",1885
+"Islington South and Finsbury",1974
+"Leyton and Wanstead",1997
+"Poplar and Canning Town",1997
+"Romford",1885
+"Tottenham",1950
+"Upminster",1974
+"Walthamstow",1974
+"West Ham",1997
+"Brent East",1974
+"Brent North",1974
+"Brent South",1974
+"Chipping Barnet",1974
+"Cities of London and Westminster",1950
+"Ealing,Acton and Shepherd's Bush",1997
+"Ealing North",1950
+"Ealing Southall",1983
+"Finchley and Golders Green",1997
+"Hammersmith and Fulham",1997
+"Hampstead and Highgate",1983
+"Harrow East",1945
+"Harrow West",1945
+"Hayes and Harlington",1950
+"Hendon",1997
+"Holborn and St. Pancras",1983
+"Kensington and Chelsea",1997
+"Regent's Park and Kensington North",1997
+"Ruislip-Northwood",1950
+"Uxbridge",1885
+"Beckenham",1950
+"Bexleyheath and Crayford",1997
+"Bromley and Chislehurst",1997
+"Camberwell and Peckham",1997
+"Croydon Central",1974
+"Croydon North",1997
+"Croydon South",1974
+"Dulwich and West Norwood",1997
+"Eltham",1983
+"Erith and Thamesmead",1997
+"Greenwich and Woolwich",1997
+"Lewisham Deptford",1974
+"Lewisham East",1974
+"Lewisham West",1918
+"North Southwark and Bermondsey",1997
+"Old Bexley and Sidcup",1983
+"Battersea",1983
+"Brentford and Isleworth",1974
+"Carshalton and Wallington",1983
+"Feltham and Heston",1974
+"Kingston and Surbiton",1997
+"Mitcham and Morden",1974
+"Putney",1918
+"Richmond Park",1997
+"Streatham",1918
+"Sutton and Cheam",1945
+"Tooting",1974
+"Twickenham",1918
+"Vauxhall",1950
+"Wimbledon",1885
+"Hartlepool",1868
+"Middlesbrough",1974
+"Middlesbrough South and East Cleveland",1997
+"Redcar",1974
+"Stockton North",1983
+"Stockton South",1983
+"Bishop Auckland",1885
+"City of Durham",1678
+"Darlington",1868
+"Easington",1950
+"North Durham",1983
+"North West Durham",1950
+"Sedgefield",1983
+"Berwick-upon-Tweed",1512
+"Blyth Valley",1950
+"Hexham",1885
+"Wansbeck",1983
+"Blaydon",1918
+"Gateshead East and Washington West",1997
+"Houghton and Washington East",1983
+"Jarrow",1885
+"Newcastle upon Tyne Central",1918
+"Newcastle upon Tyne East and Wallsend",1997
+"Newcastle upon Tyne North",1918
+"North Tyneside",1997
+"South Shields",1832
+"Sunderland North",1950
+"Sunderland South",1950
+"Tyne Bridge",1983
+"Tynemouth",1885
+"City of Chester",1545
+"Congleton",1983
+"Crewe and Nantwich",1983
+"Eddisbury",1983
+"Ellesmere Port and Neston",1983
+"Halton",1983
+"Macclesfield",1885
+"Tatton",1983
+"Warrington North",1983
+"Warrington South",1983
+"Weaver Vale",1997
+"Barrow and Furness",1885
+"Carlisle",1295
+"Copeland",1983
+"Penrith and The Border",1950
+"Westmorland and Lonsdale",1983
+"Workington",1918
+"Altrincham and Sale West",1997
+"Ashton-under-Lyne",1832
+"Bolton North East",1983
+"Bolton South East",1983
+"Bolton West",1950
+"Bury North",1983
+"Bury South",1983
+"Cheadle",1950
+"Denton and Reddish",1983
+"Eccles",1885
+"Hazel Grove",1974
+"Heywood and Middleton",1983
+"Leigh",1885
+"Makerfield",1983
+"Manchester Blackley",1918
+"Manchester Central",1974
+"Manchester Gorton",1918
+"Manchester Withington",1918
+"Oldham East and Saddleworth",1997
+"Oldham West and Royton",1997
+"Rochdale",1832
+"Salford",1997
+"Stalybridge and Hyde",1918
+"Stockport",1983
+"Stretford and Urmston",1997
+"Wigan",1545
+"Worsley",1983
+"Wythenshawe and Sale East",1997
+"Blackburn",1955
+"Blackpool North and Fleetwood",1997
+"Blackpool South",1945
+"Burnley",1868
+"Chorley",1885
+"Fylde",1983
+"Hyndburn",1983
+"Lancaster and Wyre",1997
+"Morecambe and Lunesdale",1983
+"Pendle",1983
+"Preston",1983
+"Ribble Valley",1983
+"Rossendale and Darwen",1983
+"South Ribble",1983
+"West Lancashire",1983
+"Birkenhead",1950
+"Bootle",1885
+"Crosby",1950
+"Knowsley North and Sefton East",1997
+"Knowsley South",1983
+"Liverpool Garston",1950
+"Liverpool Riverside",1983
+"Liverpool Walton",1885
+"Liverpool Wavertree",1997
+"Liverpool West Derby",1885
+"St Helens North",1983
+"St Helens South",1983
+"Southport",1885
+"Wallasey",1918
+"Wirral South",1983
+"Wirral West",1983
+"Bracknell",1997
+"Maidenhead",1997
+"Newbury",1885
+"Reading East",1983
+"Reading West",1983
+"Slough",1983
+"Windsor",1997
+"Windsor",1424,1974
+"Windsor and Maidenhead",1974,1997
+"Wokingham",1950
+"Aylesbury",1553
+"Beaconsfield",1974
+"Buckingham",1542
+"Chesham and Amersham",1974
+"Milton Keynes South West",1992
+"North East Milton Keynes",1992
+"Wycombe",1295
+"Bexhill and Battle",1983
+"Brighton Kemptown",1950
+"Brighton Pavilion",1950
+"Eastbourne",1885
+"Hastings and Rye",1983
+"Hove",1950
+"Lewes",1295
+"Wealden",1983
+"Aldershot",1918
+"Basingstoke",1885
+"East Hampshire",1983
+"Eastleigh",1955
+"Fareham",1974
+"Fareham",1885,1950
+"Gosport",1974
+"Havant",1983
+"New Forest East",1997
+"New Forest West",1997
+"North East Hampshire",1997
+"North West Hampshire",1983
+"Portsmouth North",1974
+"Portsmouth South",1918
+"Romsey",1983
+"Southampton Itchen",1950
+"Southampton Test",1950
+"Winchester",1295
+"Isle of Wight",1832
+"Ashford",1885
+"Canterbury",1295
+"Chatham and Aylesford",1997
+"Dartford",1885
+"Dover",1369
+"Faversham and Mid Kent",1997
+"Folkestone and Hythe",1950
+"Gillingham",1918
+"Gravesham",1983
+"Maidstone and The Weald",1997
+"Medway",1983
+"North Thanet",1983
+"Orpington",1945
+"Sevenoaks",1885
+"Sittingbourne and Sheppey",1997
+"South Thanet",1983
+"Tonbridge and Malling",1974
+"Tunbridge Wells",1974
+"Banbury",1553
+"Henley",1885
+"Oxford East",1983
+"Oxford West and Abingdon",1983
+"Wantage",1983
+"Witney",1983
+"East Surrey",1918
+"Epsom and Ewell",1885
+"Esher and Walton",1950
+"Guildford",1295
+"Mole Valley",1983
+"Reigate",1885
+"Runnymede and Weybridge",1997
+"South West Surrey",1983
+"Spelthorne",1918
+"Surrey Heath",1997
+"Woking",1950
+"Arundel and South Downs",1997
+"Bognor Regis and Littlehampton",1997
+"Chichester",1295
+"Crawley",1983
+"East Worthing and Shoreham",1997
+"Horsham",1983
+"Horsham",1295,1918
+"Horsham",1945,1974
+"Horsham and Worthing",1918,1945
+"Mid Sussex",1974
+"Worthing West",1997
+"Bath",1295
+"Bristol East",1983
+"Bristol North West",1950
+"Bristol South",1885
+"Bristol West",1885
+"Kingswood",1974
+"Northavon",1983
+"Wansdyke",1983
+"Weston-Super-Mare",1918
+"Woodspring",1983
+"Falmouth and Camborne",1950
+"North Cornwall",1918
+"St Ives",1558
+"South East Cornwall",1983
+"Truro and St Austell",1997
+"East Devon",1997
+"Exeter",1295
+"North Devon",1950
+"Plymouth Devonport",1832
+"Plymouth Sutton",1918
+"South West Devon",1997
+"Teignbridge",1983
+"Tiverton and Honiton",1997
+"Torbay",1974
+"Torridge and West Devon",1983
+"Totnes",1997
+"Bournemouth East",1974
+"Bournemouth West",1950
+"Christchurch",1983
+"Mid Dorset and North Poole",1997
+"North Dorset",1885
+"Poole",1950
+"South Dorset",1885
+"West Dorset",1885
+"Cheltenham",1832
+"Cotswold",1997
+"Forest of Dean",1997
+"Gloucester",1295
+"Stroud",1955
+"Stroud",1832,1950
+"Stroud and Thornbury",1950,1955
+"Tewkesbury",1997
+"Bridgwater",1885
+"Somerton and Frome",1983
+"Taunton",1295
+"Wells",1885
+"Yeovil",1918
+"Devizes",1331
+"North Swindon",1997
+"North Wiltshire",1983
+"Salisbury",1295
+"South Swindon",1997
+"Westbury",1449
+"Bromsgrove",1950
+"Hereford",1295
+"Leominster",1295
+"Mid Worcestershire",1983
+"Redditch",1997
+"West Worcestershire",1997
+"West Worcestershire",1832,1885
+"Worcester",1295
+"Wyre Forest",1983
+"Ludlow",1885
+"North Shropshire",1983
+"Shrewsbury and Atcham",1983
+"Telford",1997
+"The Wrekin",1997
+"Burton",1885
+"Cannock Chase",1997
+"Lichfield",1997
+"Lichfield",1305,1950
+"Newcastle-under-Lyme",1354
+"South Staffordshire",1983
+"Stafford",1295,1950
+"Stafford",1983
+"Staffordshire Moorlands",1983
+"Stoke-on-Trent Central",1950
+"Stoke-on-Trent North",1950
+"Stoke-on-Trent South",1950
+"Stone",1997
+"Stone",1918,1950
+"Tamworth",1997
+"North Warwickshire",1983
+"Nuneaton",1885
+"Rugby and Kenilworth",1983
+"Stratford-on-Avon",1950
+"Warwick and Leamington",1885
+"Aldridge-Brownhills",1974
+"Birmingham Edgbaston",1885
+"Birmingham Erdington",1974
+"Birmingham Hall Green",1950
+"Birmingham Hodge Hill",1983
+"Birmingham Ladywood",1918
+"Birmingham Northfield",1950
+"Birmingham Perry Barr",1950
+"Birmingham Selly Oak",1955
+"Birmingham Sparkbrook and Small Heath",1997
+"Birmingham Yardley",1918
+"Coventry North East",1974
+"Coventry North West",1974
+"Coventry South",1997
+"Dudley North",1997
+"Dudley South",1997
+"Halesowen and Rowley Regis",1997
+"Meriden",1955
+"Solihull",1945
+"Stourbridge",1997
+"Sutton Coldfield",1945
+"Walsall North",1955
+"Walsall South",1955
+"Warley",1997
+"West Bromwich East",1974
+"West Bromwich West",1974
+"Wolverhampton North East",1950
+"Wolverhampton South East",1974
+"Wolverhampton South West",1950
+"Beverley and Holderness",1997
+"Brigg and Goole",1997
+"Cleethorpes",1997
+"East Yorkshire",1997
+"Great Grimsby",1295
+"Haltemprice and Howden",1997
+"Kingston upon Hull East",1885
+"Kingston upon Hull North",1983
+"Kingston upon Hull West and Hessle",1997
+"Scunthorpe",1997
+"City of York",1265
+"Harrogate and Knaresborough",1950
+"Richmond (Yorks)",1585
+"Ryedale",1983
+"Scarborough and Whitby",1997
+"Scarborough and Whitby",1918,1974
+"Selby",1983
+"Skipton and Ripon",1983
+"Vale of York",1997
+"Barnsley Central",1983
+"Barnsley East and Mexborough",1983
+"Barnsley West and Penistone",1983
+"Don Valley",1918
+"Doncaster Central",1983
+"Doncaster North",1983
+"Rother Valley",1918
+"Rotherham",1885
+"Sheffield Attercliffe",1885
+"Sheffield Brightside",1885
+"Sheffield Central",1983
+"Sheffield Hallam",1885
+"Sheffield Heeley",1950
+"Sheffield Hillsborough",1918
+"Wentworth",1983
+"Batley and Spen",1983
+"Bradford North",1918
+"Bradford South",1918
+"Bradford West",1955
+"Calder Valley",1983
+"Colne Valley",1885
+"Dewsbury",1868
+"Elmet",1983
+"Halifax",1832
+"Hemsworth",1918
+"Huddersfield",1983
+"Keighley",1885
+"Leeds Central",1983
+"Leeds East",1955
+"Leeds North East",1918
+"Leeds North West",1950
+"Leeds West",1885
+"Morley and Rothwell",1997
+"Normanton",1885
+"Pontefract and Castleford",1974
+"Pudsey",1950
+"Pudsey",1885,1918
+"Pudsey and Otley",1918,1950
+"Shipley",1885
+"Wakefield",1832
+"Belfast East",1922
+"Belfast North",1922
+"Belfast South",1922
+"Belfast West",1922
+"East Antrim",1983
+"East Antrim",1885,1922
+"East Londonderry",1983
+"Fermanagh & South Tyrone",1950
+"Foyle",1983
+"Lagan Valley",1983
+"Mid Ulster",1950
+"Newry & Armagh",1983
+"North Antrim",1950
+"North Down",1950
+"North Down",1885,1922
+"South Antrim",1950
+"South Down",1950
+"South Down",1885,1922
+"Strangford",1983
+"Upper Bann",1983
+"West Tyrone",1997
+"Dumfries and Galloway",2005
+"Dumfriesshire,Clydesdale and Tweeddale",2005
+"Berwickshire,Roxburgh and Selkirk",2005
+"Central Ayrshire",2005
+"Ayr,Carrick and Cumnock",2005
+"Kilmarnock and Loudoun",1983
+"North Ayrshire and Arran",2005
+"East Kilbride,Strathaven and Lesmahagow",2005
+"Lanark and Hamilton East",2005
+"Rutherglen and Hamilton West",2005
+"Coatbridge,Chryston and Bellshill",2005
+"Cumbernauld,Kilsyth and Kirkintilloch East",2005
+"Airdrie and Shotts",1997
+"Motherwell and Wishaw",1997
+"East Lothian",1983
+"Midlothian",1955
+"Edinburgh East",2005
+"Edinburgh East",1885,1997
+"Edinburgh North and Leith",1997
+"Edinburgh South",1885
+"Edinburgh South West",2005
+"Edinburgh West",1885
+"Linlithgow and East Falkirk",2005
+"Livingston",1983
+"Falkirk",2005
+"Falkirk",1832,1918
+"West Dunbartonshire",2005
+"East Dunbartonshire",2005
+"Paisley and Renfrewshire North",2005
+"Paisley and Renfrewshire South",2005
+"East Renfrewshire",2005
+"Inverclyde",2005
+"Glasgow Central",2005
+"Glasgow East",2005
+"Glasgow North",2005
+"Glasgow North East",2005
+"Glasgow North West",2005
+"Glasgow South",2005
+"Glasgow South West",2005
+"Ochil and South Perthshire",2005
+"Perth and North Perthshire",2005
+"Stirling",1983
+"Glenrothes",2005
+"Kirkcaldy and Cowdenbeath",2005
+"Dunfermline and West Fife",2005
+"North East Fife",1983
+"Dundee East",1950
+"Dundee West",1950
+"Angus",1997
+"Gordon",1983
+"West Aberdeenshire and Kincardine",1997
+"Banff and Buchan",1983
+"Aberdeen North",1885
+"Aberdeen South",1885
+"Argyll and Bute",1983
+"Moray",1983
+"Caithness,Sutherland and Easter Ross",1997
+"Inverness,Nairn,Badenoch and Strathspey",2005
+"Ross,Skye and Lochaber",2005
+"Na h-Eileanan an Iar",1918,,"Western Isles"
+"Orkney and Shetland",1708
+"Aberavon",1918
+"Alyn and Deeside",1983
+"Blaenau Gwent",1983
+"Brecon and Radnorshire",1918
+"Bridgend",1983
+"Caernarfon",1536
+"Caerphilly",1918
+"Cardiff Central",1983
+"Cardiff North",1950
+"Cardiff South and Penarth",1983
+"Cardiff West",1950
+"Carmarthen East and Dinefwr",1997
+"Carmarthen West and South Pembrokeshire",1997
+"Ceredigion",1536,,"Cardiganshire"
+"Clwyd South",1997
+"Clwyd West",1997
+"Conwy",1950
+"Cynon Valley",1983
+"Delyn",1983
+"Gower",1885
+"Islwyn",1983
+"Llanelli",1918
+"Meirionnydd Nant Conwy",1983
+"Merthyr Tydfil and Rhymney",1983
+"Monmouth",1918
+"Montgomeryshire",1536
+"Neath",1918
+"Newport East",1983
+"Newport West",1983
+"Ogmore",1918
+"Pontypridd",1918
+"Preseli Pembrokeshire",1997
+"Rhondda",1974
+"Swansea East",1918
+"Swansea West",1918
+"Torfaen",1983
+"Vale of Clwyd",1997
+"Vale of Glamorgan",1983
+"Wrexham",1918
+"Ynys Môn",1545,,"Anglesey"
