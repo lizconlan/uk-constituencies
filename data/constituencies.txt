@@ -147,7 +147,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Bedwellty",1918,1983
 "Beeston",1974,1983
 "Belper",1918,1983
-"Bermondsey",1885,1983
+"Bermondsey",1950,1983
 "Berwick and East Lothian",1950,1983
 "Birmingham Stechford",1950,1983
 "Bodmin",1295,1983
@@ -314,7 +314,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Thanet West",1974,1983
 "Thirsk and Malton",1885,1983
 "Thornaby",1974,1983
-"Totnes",1885,1983
 "Warrington",1832,1983
 "West Devon",1974,1983
 "West Dunbartonshire",1950,1983
@@ -393,7 +392,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Sedgefield",1918,1974
 "Smethwick",1918,1974
 "South Buckinghamshire",1950,1974
-"South Northamptionshire",1832,1918
+"South Northamptonshire",1832,1918
 "South Northamptonshire",1950,1974
 "Southwark",1295,1885
 "Southwark",1950,1974
@@ -413,8 +412,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "West Ham South",1950,1974
 "Willesden East",1918,1974
 "Willesden West",1918,1974
-"Beverley",1983,1997
-"Beverley",1950,1955
 "Birmingham Erdington",1918,1955
 "Blackburn East",1950,1955
 "Blackburn West",1950,1955
@@ -431,7 +428,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Glasgow Tradeston",1885,1955
 "Hackney South",1885,1955
 "Hammersmith South",1918,1955
-"Hull Central",1885,1955
 "Leeds Central",1885,1955
 "Leeds North",1885,1955
 "Manchester Clayton",1918,1955
@@ -439,10 +435,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Mile End",1885,1955
 "Nottingham East",1885,1955
 "Nottingham North West",1950,1955
-"Reading North",1950,1955
-"Reading North",1974,1983
-"Reading South",1950,1955
-"Reading South",1974,1983
 "Sheffield Neepsend",1950,1955
 "Walsall",1832,1955
 "Aberdeen and Kincardine East",1918,1950
@@ -490,7 +482,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Coventry West",1945,1950
 "Croydon South",1918,1950
 "Daventry",1918,1950
-"Derby",1295,1950
 "Down",1801,1885
 "Down",1922,1950
 "Dumbarton Burghs",1918,1950
@@ -504,7 +495,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Elland",1885,1950
 "Enfield",1885,1950
 "Essex South East",1885,1950
-"Essex South East",1955,1983
 "Evesham",1604,1950
 "Fermanagh and Tyrone",1922,1950
 "Flintshire",1542,1950
@@ -515,8 +505,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Gateshead",1832,1950
 "Glasgow Partick",1885,1950
 "Glasgow St Rollox",1885,1950
-"Hackney Central",1885,1950
-"Hackney Central",1955,1983
 "Hackney North",1885,1950
 "Hanley",1885,1950
 "Holderness",1885,1950
@@ -557,19 +545,15 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Penrith and Cockermouth",1918,1950
 "Penryn and Falmouth",1832,1950
 "Plaistow",1918,1950
-"Plymouth Drake",1918,1950
-"Plymouth Drake",1974,1997
 "Poplar South",1918,1950
 "Portsmouth Central",1918,1950
 "Portsmouth North",1918,1950
 "Preston",1529,1950
 "Queen's University Belfast",1918,1950
-"Reading",1295,1950
 "Rotherhithe",1885,1950
 "Rothwell",1918,1950
 "Royton",1918,1950
 "Rye",1366,1950
-"Rye",1955,1983
 "St Pancras South East",1918,1950
 "St Pancras South West",1918,1950
 "Salford North",1885,1950
@@ -580,7 +564,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Silvertown",1918,1950
 "South Derbyshire",1832,1950
 "Southend",1918,1950
-"Southampton",1295,1950
 "South Molton",1885,1950
 "Southwark Central",1918,1950
 "Southwark North",1918,1950
@@ -721,7 +704,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Aberdeenshire Eastern",1868,1918
 "Aberdeenshire Western",1868,1918
 "Andover",1586,1918
-"Appleby",1295,1918
+"Appleby",1885,1918
 "Arfon",1885,1918
 "Ashburton",1885,1918
 "Ashburton",1640,1868
@@ -813,7 +796,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Manchester North West",1885,1918
 "Manchester South",1885,1918
 "Manchester South West",1885,1918
-"Marlborough",1295,1918
 "Marylebone East",1885,1918
 "Marylebone West",1885,1918
 "Medway",1885,1918
@@ -855,8 +837,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Perthshire East",1885,1918
 "Perthshire West",1885,1918
 "Plymouth",1442,1918
-"Poplar",1885,1918
-"Poplar",1950,1974
 "Portsmouth",1295,1918
 "Prestwich",1885,1918
 "Radcliffe-cum-Farnworth",1885,1918
@@ -877,8 +857,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "South Glamorganshire",1885,1918
 "South Lanarkshire",1868,1918
 "South Leitrim",1885,1918
-"South Northamptonshire",1832,1918
-"South Northamptonshire",1950,1974
 "South Somerset",1885,1918
 "Southwark West",1885,1918
 "South Westmeath",1885,1918
@@ -892,7 +870,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Strand",1885,1918
 "Stratford-on-Avon",1885,1918
 "Sutherland",1708,1918
-"Caithness and Sutherland",1918,1997
 "Swansea District",1885,1918
 "Swansea Town",1885,1918
 "Tewkesbury",1610,1918
@@ -911,10 +888,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Wellington (Somerset)",1885,1918
 "West Carmarthenshire",1885,1918
 "West Denbighshire",1885,1918
-"West Ham North",1885,1918
-"West Ham North",1950,1974
-"West Ham South",1885,1918
-"West Ham South",1950,1974
 "Westminster",1545,1918
 "West Staffordshire",1868,1918
 "Whitby",1832,1918
@@ -928,8 +901,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Woolwich",1885,1918
 "Woolwich",1983,1997
 "Aberdeen",1832,1885
-"Antrim",1801,1885
-"Antrim",1922,1950
 "City of Armagh",1801,1885
 "County Armagh",1801,1885
 "County Armagh",1922,1983
@@ -946,11 +917,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Bridport",1295,1885
 "Bristol",1295,1885
 "Buckinghamshire",1290,1885
-"Caernarvonshire",1542,1885
-"Caernarvonshire",1918,1950
 "Calne",1295,1885
-"Cambridgeshire",1290,1885
-"Cambridgeshire",1918,1983
 "Cardigan",1542,1885
 "Cardigan",1974,1883
 "Borough of Carlow",1801,1885
@@ -977,8 +944,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Donegal",1801,1885
 "Dorchester",1295,1885
 "Dorset",1290,1885
-"Down",1801,1885
-"Down",1922,1950
 "Downpatrick",1801,1885
 "Drogheda",1801,1885
 "City of Dublin",1801,1885
@@ -1017,8 +982,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Helston",1298,1885
 "Herefordshire",1290,1885
 "Hertfordshire",1290,1885
-"Huntingdonshire",1290,1885
-"Huntingdonshire",1918,1983
 "East Kent",1832,1885
 "Mid Kent",1868,1885
 "Mid Kent",1983,1997
@@ -1026,15 +989,11 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Kerry",1801,1885
 "Kildare",1801,1885
 "County Kilkenny",1801,1885
-"King's County",1801,1885
-"King's County",1918,1922
 "Kingston-upon-Hull",1334,1885
 "Kingston-upon-Hull",1305,1327
 "Kinsale",1801,1885
 "Knaresborough",1553,1885
 "Lambeth",1832,1885
-"North Lanarkshire",1868,1885
-"North Lanarkshire",1918,1983
 "North Lancashire",1832,1885
 "North East Lancashire",1868,1885
 "South East Lancashire",1868,1885
@@ -1042,8 +1001,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Leeds",1832,1885
 "North Leicestershire",1832,1885
 "South Leicestershire",1832,1885
-"Leitrim",1801,1885
-"Leitrim",1918,1922
 "Limerick (County)",1801,1885
 "Mid Lincolnshire",1868,1885
 "North Lincolnshire",1868,1885
@@ -1054,8 +1011,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Liverpool",1295,1442
 "Londonderry (County)",1801,1885
 "Londonderry (County)",1922,1983
-"Longford",1801,1885
-"Longford",1918,1922
 "Louth (County)",1801,1885
 "Louth (County)",1918,1922
 "Lymington",1584,1885
@@ -1091,8 +1046,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Poole",1453,1885
 "Poole",1362,1377
 "Portarlington",1801,1885
-"Queen's County",1801,1885
-"Queen's County",1918,1922
 "Radnor",1542,1885,"New Radnor"
 "Renfrewshire",1708,1885
 "Roscommon",1801,1885
@@ -1105,7 +1058,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "County Sligo",1801,1885
 "Mid Somerset",1868,1885
 "West Somerset",1832,1885
-"Southwark",1295,1885
 "Southwark",1983,1997
 "East Staffordshire",1868,1885
 "North Staffordshire",1832,1885
@@ -1128,10 +1080,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Warwick",1295,1885
 "North Warwickshire",1832,1885
 "South Warwickshire",1832,1885
-"County Waterford",1801,1885
-"County Waterford",1918,1922
-"Westmeath",1801,1885
-"Westmeath",1918,1922
 "Westmorland",1290,1885
 "Westmorland",1918,1983
 "West Riding of Yorkshire East",1865,1885
@@ -1157,8 +1105,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Aberdeenshire",1708,1868
 "Arundel",1295,1868
 "Arundel",1974,1997
-"Ashburton",1640,1868
-"Ashburton",1885,1918
 "Ayrshire",1708,1868	
 "North Ayrshire",1868,1918
 "South Ayrshire",1868,1983
@@ -1214,8 +1160,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Corfe Castle",1572,1832
 "Cornwall",1290,1832
 "Cromartyshire or Nairnshire",1708,1832,,"Were paired as alternating constituencies until 1832"
-"Ross and Cromarty",1832,1983
-"Elginshire and Nairnshire",1832,1918
 "Cumberland",1290,1832
 "Derbyshire",1290,1832
 "Devon",1290,1832
@@ -1306,10 +1250,9 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Grantham",1484,1997
 "Derby",1295,1467
 "Derby",1472,1950
-"Great Grimsby",1295,1467,"Grimsby"
+"Great Grimsby",1295,,"Grimsby"
 "Southampton",1295,1467
 "Southampton",1472,1950
-"Winchester",1295,1467
 "Amber Valley",1983
 "Bolsover",1950
 "Chesterfield",1885
@@ -1799,7 +1742,6 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Brigg and Goole",1997
 "Cleethorpes",1997
 "East Yorkshire",1997
-"Great Grimsby",1295
 "Haltemprice and Howden",1997
 "Kingston upon Hull East",1885
 "Kingston upon Hull North",1983
@@ -1975,4 +1917,4 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Vale of Clwyd",1997
 "Vale of Glamorgan",1983
 "Wrexham",1918
-"Ynys Môn",1545,,"Anglesey"
+"Ynys Mon",1545,,"Anglesey"
