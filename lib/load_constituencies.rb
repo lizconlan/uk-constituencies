@@ -4,13 +4,6 @@ require 'fastercsv'
 require 'json'
 require 'rest_client'
 
-def get_uuid
-  # result = RestClient.get("#{DBSERVER}/_uuids")
-  # values = JSON.parse(result.body)
-  # values["uuids"].first
-  `uuidgen`.strip
-end
-
 line_count = 1
 
 FasterCSV.foreach("../data/constituencies.txt") do |row|
@@ -28,9 +21,15 @@ FasterCSV.foreach("../data/constituencies.txt") do |row|
       alt_name = ""
     end
     
-    constituency = {"name" => "#{name}", "created" => "#{year_created}", "abolished" => "#{year_abolished}", "alternative_name" => "#{alt_name}"}
+    constituency = {"name" => "#{name}", "created" => "#{year_created}"}
+    unless year_abolished == ""
+      constituency["abolished"] = year_abolished
+    end
+    unless alt_name == ""
+      constituency["alternative_name"] = alt_name
+    end
     p "#{name} = #{year_created}"
-    uuid = get_uuid()
+    uuid = "#{name.downcase.gsub(",","").gsub(" ","-")}_#{year_created}"
 
     doc = <<-JSON
     #{JSON.generate(constituency)}
