@@ -18,7 +18,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Falkirk East",1983,2005
 "Falkirk West",1983,2005
 "Fife Central",1974,2005
-"Galloway",1918,Galloway,1983
+"Galloway",1918,1983
 "Galloway and Upper Nithsdale",1983,2005
 "Glasgow Anniesland",1997,2005
 "Glasgow Baillieston",1997,2005
@@ -1151,8 +1151,8 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Bramber",1467,1832
 "Bramber",1295,1441
 "Buteshire or Caithness",1708,1832
-"Buteshire",1832,1918
-"Caithness",1832,1918,,"Were paired as alternating constituencies until 1832"
+"Buteshire",1832,1918,,"Paired with Caithness as alternating constituencies until 1832"
+"Caithness",1832,1918,,"Paired with Buteshire as alternating constituencies until 1832"
 "Callington",1584,1832
 "Camelford",1547,1832
 "Castle Rising",1558,1832
@@ -1262,7 +1262,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "High Peak",1885
 "North East Derbyshire",1885
 "South Derbyshire",1983
-"West Derbyshire",1885
+"West Derbyshire",1885,2010
 "Blaby",1974
 "Bosworth",1885
 "Charnwood",1997
@@ -1320,7 +1320,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Harlow",1974
 "Harwich",1707
 "Maldon and East Chelmsford",1997
-"North Essex",1997
+"North Essex",1997,2010
 "Rayleigh",1997
 "Rochford and Southend East",1997
 "Saffron Walden",1885
@@ -1356,14 +1356,14 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Barking",1945
 "Bethnal Green and Bow",1997
 "Chingford and Woodford Green",1997
-"Dagenham",1945
+"Dagenham",1945,2010
 "East Ham",1997
 "Edmonton",1918
 "Enfield North",1974
 "Enfield Southgate",1983
 "Hackney North and Stoke Newington",1950
 "Hackney South and Shoreditch",1974
-"Hornchurch",1945
+"Hornchurch",1945,2010
 "Hornsey and Wood Green",1983
 "Ilford North",1945
 "Ilford South",1945
@@ -1376,23 +1376,23 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Upminster",1974
 "Walthamstow",1974
 "West Ham",1997
-"Brent East",1974
+"Brent East",1974,2010
 "Brent North",1974
-"Brent South",1974
+"Brent South",1974,2010
 "Chipping Barnet",1974
 "Cities of London and Westminster",1950
-"Ealing, Acton and Shepherd's Bush",1997
+"Ealing, Acton and Shepherd's Bush",1997,2010
 "Ealing North",1950
 "Ealing Southall",1983
 "Finchley and Golders Green",1997
-"Hammersmith and Fulham",1997
-"Hampstead and Highgate",1983
+"Hammersmith and Fulham",1997,2010
+"Hampstead and Highgate",1983,2010
 "Harrow East",1945
 "Harrow West",1945
 "Hayes and Harlington",1950
 "Hendon",1997
 "Holborn and St. Pancras",1983
-"Kensington and Chelsea",1997
+"Kensington and Chelsea",1997,2010
 "Regent's Park and Kensington North",1997
 "Ruislip-Northwood",1950
 "Uxbridge",1885
@@ -1410,7 +1410,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Lewisham Deptford",1974
 "Lewisham East",1974
 "Lewisham West",1918
-"North Southwark and Bermondsey",1997
+"North Southwark and Bermondsey",1997,2010
 "Old Bexley and Sidcup",1983
 "Battersea",1983
 "Brentford and Isleworth",1974
@@ -1502,7 +1502,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Worsley",1983
 "Wythenshawe and Sale East",1997
 "Blackburn",1955
-"Blackpool North and Fleetwood",1997
+"Blackpool North and Fleetwood",1997,2010
 "Blackpool South",1945
 "Burnley",1868
 "Chorley",1885
@@ -1632,7 +1632,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Wansdyke",1983
 "Weston-Super-Mare",1918
 "Woodspring",1983
-"Falmouth and Camborne",1950
+"Falmouth and Camborne",1950,2010
 "North Cornwall",1918
 "St Ives",1558
 "South East Cornwall",1983
@@ -1664,7 +1664,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Stroud",1832,1950
 "Stroud and Thornbury",1950,1955
 "Tewkesbury",1997
-"Bridgwater",1885
+"Bridgwater",1885,2010
 "Somerton and Frome",1983
 "Taunton",1295
 "Wells",1885
@@ -1676,7 +1676,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "South Swindon",1997
 "Westbury",1449
 "Bromsgrove",1950
-"Hereford",1295
+"Hereford",1295,2010
 "Leominster",1295
 "Mid Worcestershire",1983
 "Redditch",1997
@@ -1718,7 +1718,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Birmingham Northfield",1950
 "Birmingham Perry Barr",1950
 "Birmingham Selly Oak",1955
-"Birmingham Sparkbrook and Small Heath",1997
+"Birmingham Sparkbrook and Small Heath",1997,2010
 "Birmingham Yardley",1918
 "Coventry North East",1974
 "Coventry North West",1974
@@ -1757,7 +1757,7 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Skipton and Ripon",1983
 "Vale of York",1997
 "Barnsley Central",1983
-"Barnsley East and Mexborough",1983
+"Barnsley East and Mexborough",1983,2010
 "Barnsley West and Penistone",1983
 "Don Valley",1918
 "Doncaster Central",1983
@@ -1772,13 +1772,13 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Sheffield Hillsborough",1918
 "Wentworth",1983
 "Batley and Spen",1983
-"Bradford North",1918
+"Bradford North",1918,2010
 "Bradford South",1918
 "Bradford West",1955
 "Calder Valley",1983
 "Colne Valley",1885
 "Dewsbury",1868
-"Elmet",1983
+"Elmet",1983,2010
 "Halifax",1832
 "Hemsworth",1918
 "Huddersfield",1983
@@ -1918,3 +1918,29 @@ Constituency Name,Created,Abolished,Alternate Name,Notes
 "Vale of Glamorgan",1983
 "Wrexham",1918
 "Ynys Mon",1545,,"Anglesey"
+"Basildon and Billericay",2010
+"Bermondsey and Old Southwark",2010
+"Blackpool North and Cleveleys",2010
+"Blackley and Broughton",2010
+"Brent Central",2010
+"Bridgwater and West Somerset",2010
+"Broadland",2010
+"Camborne and Redruth",2010
+"Central Devon",2010
+"Chelsea and Fulham",2010
+"Chippenham",2010
+"Clacton",2010
+"Dagenham and Rainham",2010
+"Derbyshire Dales",2010
+"Ealing Central and Acton",2010
+"Elmet and Rothwell",2010
+"Filton and Bradley Stoke",2010
+"Garston and Halewood",2010
+"Gateshead",2010
+"Gillingham and Rainham",2010
+"Hammersmith",2010
+"Hampstead and Kilburn",2010
+"Harwich and North Essex",2010
+"Hereford and South Herefordshire",2010
+"Barnsley",2010
+"Bradford East",2010
