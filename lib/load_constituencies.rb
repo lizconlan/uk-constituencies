@@ -21,7 +21,7 @@ FasterCSV.foreach("../data/constituencies.txt") do |row|
       alt_name = ""
     end
     
-    constituency = {"name" => "#{name}", "created" => "#{year_created}"}
+    constituency = {"name" => "#{name}", "created" => "#{year_created}", "type" => "constituency"}
     unless year_abolished == ""
       constituency["abolished"] = year_abolished
     end
